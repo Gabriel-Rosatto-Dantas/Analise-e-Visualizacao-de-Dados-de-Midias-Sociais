@@ -284,8 +284,4 @@ Sistema desenvolvido para demonstrar análise e visualização de dados de mídi
 
 ---
 
-**📧 Contato**: Para dúvidas ou sugestões sobre o projeto.
-
-**🔗 Repositório**: [Link para o repositório do projeto]
-
 **📊 Demonstração**: Execute `python run.py` para ver o sistema em ação!
