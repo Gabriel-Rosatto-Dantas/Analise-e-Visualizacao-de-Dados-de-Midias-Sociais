@@ -1,0 +1,2001 @@
+platform,age_group,gender,city,interest,engagement_rate,time_spent_minutes
+Instagram,35-44,Masculino,Guarulhos,Saúde,0.05768843532845051,27
+Instagram,25-34,Feminino,Recife,Arte,0.02311499287258216,49
+Instagram,25-34,Masculino,Belém,Entretenimento,0.059064389304159276,46
+Instagram,18-24,Outro,Rio de Janeiro,Saúde,0.07680098043563205,30
+Instagram,35-44,Feminino,Curitiba,Automóveis,0.04356167061979089,25
+Instagram,35-44,Outro,Brasília,Arte,0.07198288937230682,38
+Instagram,55-64,Outro,Porto Alegre,Tecnologia,0.04578960822908866,6
+Instagram,25-34,Feminino,Campinas,Moda,0.051609256759226174,17
+Instagram,35-44,Masculino,São Paulo,Viagem,0.07304686322921265,35
+Instagram,18-24,Outro,São Paulo,Arte,0.025845983964208723,56
+Instagram,18-24,Masculino,Rio de Janeiro,Negócios,0.0695549268890224,39
+Instagram,45-54,Masculino,Rio de Janeiro,Educação,0.056665528185272804,17
+Instagram,35-44,Masculino,Salvador,Moda,0.07872957682171938,16
+Instagram,25-34,Outro,Fortaleza,Moda,0.06461602939451008,40
+Instagram,55-64,Feminino,Goiânia,Fitness,0.07948417757717524,5
+Instagram,55-64,Masculino,Belo Horizonte,Negócios,0.050651603720732005,18
+Instagram,55-64,Feminino,Recife,Esportes,0.02682302714766264,16
+Instagram,25-34,Outro,Manaus,Beleza,0.059923192473387885,20
+Instagram,25-34,Feminino,Manaus,Moda,0.05191770290937453,5
+Instagram,45-54,Outro,São Paulo,Tecnologia,0.033386917482391185,51
+Instagram,25-34,Outro,São Luís,Viagem,0.0626929504723578,9
+Instagram,35-44,Outro,São Paulo,Entretenimento,0.022126189839217013,53
+Instagram,35-44,Outro,Porto Alegre,Casa e Decoração,0.05555286431392625,56
+Instagram,35-44,Masculino,Salvador,Educação,0.05329421387796536,17
+Instagram,18-24,Feminino,Porto Alegre,Beleza,0.024091605866479203,46
+Instagram,45-54,Outro,Belém,Beleza,0.06333516252695225,18
+Instagram,65+,Outro,Salvador,Negócios,0.0524007582389517,51
+Instagram,65+,Masculino,São Paulo,Moda,0.039945387525255754,42
+Instagram,55-64,Outro,Salvador,Automóveis,0.042338914897577504,12
+Instagram,35-44,Masculino,Belo Horizonte,Moda,0.031298285694105754,55
+Instagram,65+,Outro,Campinas,Automóveis,0.05022371815925454,18
+Instagram,25-34,Feminino,São Paulo,Casa e Decoração,0.024815477058225174,39
+Instagram,55-64,Feminino,Brasília,Casa e Decoração,0.06999132967717298,22
+Instagram,45-54,Masculino,Rio de Janeiro,Arte,0.04489858609033988,37
+Instagram,65+,Outro,Salvador,Casa e Decoração,0.0444001485617429,26
+Instagram,18-24,Outro,Curitiba,Saúde,0.06902450383386297,8
+Instagram,45-54,Outro,Rio de Janeiro,Fitness,0.047924099807366206,12
+Instagram,25-34,Masculino,Fortaleza,Automóveis,0.03733064614131751,28
+Instagram,65+,Masculino,Guarulhos,Educação,0.052673904285510095,58
+Instagram,25-34,Feminino,Rio de Janeiro,Casa e Decoração,0.0622071618684583,26
+Instagram,65+,Masculino,Porto Alegre,Culinária,0.03339268843175744,21
+Instagram,18-24,Outro,Curitiba,Beleza,0.0799684407883068,52
+Instagram,35-44,Masculino,Belém,Tecnologia,0.06683312998037064,45
+Instagram,18-24,Outro,Rio de Janeiro,Automóveis,0.03402318045695248,7
+Instagram,35-44,Masculino,Guarulhos,Culinária,0.039580589230820695,19
+Instagram,25-34,Masculino,Campinas,Arte,0.03305109275499591,25
+Instagram,45-54,Feminino,Belém,Fitness,0.07936784300793873,54
+Instagram,45-54,Outro,Salvador,Casa e Decoração,0.06321888501890548,45
+Instagram,35-44,Masculino,São Luís,Arte,0.05865750542682688,20
+Instagram,55-64,Feminino,Goiânia,Automóveis,0.022633472751014166,51
+Instagram,35-44,Feminino,Curitiba,Esportes,0.026894655920759854,46
+Instagram,55-64,Masculino,São Paulo,Entretenimento,0.06271239232415232,35
+Instagram,45-54,Outro,Porto Alegre,Beleza,0.033900825105663286,30
+Instagram,45-54,Feminino,Campinas,Automóveis,0.07635346048935104,11
+Instagram,35-44,Feminino,Brasília,Tecnologia,0.06506543642912907,41
+Instagram,65+,Masculino,Curitiba,Saúde,0.0625055213401001,12
+Instagram,45-54,Masculino,Curitiba,Moda,0.07898441579051604,40
+Instagram,45-54,Masculino,Curitiba,Casa e Decoração,0.023349894602475663,24
+Instagram,55-64,Outro,São Paulo,Tecnologia,0.025662203675582876,19
+Instagram,65+,Outro,Fortaleza,Culinária,0.06892040338904488,50
+Instagram,65+,Masculino,Recife,Moda,0.06067460110394747,33
+Instagram,65+,Feminino,Curitiba,Beleza,0.03946699400241519,53
+Instagram,35-44,Masculino,Manaus,Viagem,0.03078815766111824,34
+Instagram,55-64,Masculino,Rio de Janeiro,Tecnologia,0.07950389067068898,44
+Instagram,18-24,Feminino,Campinas,Negócios,0.07805176835468221,43
+Instagram,65+,Masculino,Porto Alegre,Culinária,0.03282435708183968,22
+Instagram,18-24,Outro,Rio de Janeiro,Negócios,0.07393536467197363,19
+Instagram,45-54,Feminino,Curitiba,Negócios,0.05478838039718882,20
+Instagram,45-54,Outro,São Paulo,Beleza,0.0698640433792079,45
+Instagram,45-54,Outro,Campinas,Educação,0.05315041811179244,22
+Instagram,25-34,Feminino,Campinas,Automóveis,0.05193143741336674,57
+Instagram,55-64,Feminino,Porto Alegre,Tecnologia,0.059033846781822344,12
+Instagram,65+,Feminino,Curitiba,Tecnologia,0.03075954206268996,58
+Instagram,25-34,Masculino,Porto Alegre,Fitness,0.05135433617378474,53
+Instagram,18-24,Feminino,São Paulo,Negócios,0.06576144349200659,34
+Instagram,45-54,Outro,Guarulhos,Fitness,0.04963588093750809,46
+Instagram,45-54,Feminino,Porto Alegre,Esportes,0.06141548414912379,40
+Instagram,65+,Outro,Rio de Janeiro,Saúde,0.06422190678148593,32
+Instagram,45-54,Feminino,Belém,Entretenimento,0.04108960698413991,51
+Instagram,45-54,Feminino,Belo Horizonte,Automóveis,0.0656388690914975,47
+Instagram,18-24,Feminino,Curitiba,Saúde,0.04346741222589547,17
+Instagram,55-64,Masculino,Brasília,Moda,0.03313622527310004,17
+Instagram,45-54,Masculino,Belo Horizonte,Moda,0.06718168692874402,37
+Instagram,35-44,Outro,Belo Horizonte,Automóveis,0.036623886829827076,39
+Instagram,45-54,Feminino,São Paulo,Casa e Decoração,0.04043927873128478,11
+Instagram,35-44,Feminino,São Luís,Entretenimento,0.04531299452086385,47
+Instagram,65+,Feminino,Porto Alegre,Beleza,0.02833330385672001,48
+Instagram,45-54,Outro,Curitiba,Casa e Decoração,0.06536614070606389,19
+Instagram,45-54,Masculino,Recife,Saúde,0.06277686308686488,38
+Instagram,45-54,Outro,São Luís,Tecnologia,0.04005146063372972,46
+Instagram,45-54,Masculino,Salvador,Moda,0.0458408796691705,55
+Instagram,65+,Feminino,Rio de Janeiro,Beleza,0.06639588324160654,19
+Instagram,18-24,Outro,Goiânia,Casa e Decoração,0.02843443093323584,55
+Instagram,45-54,Masculino,Goiânia,Esportes,0.02539565392456485,31
+Instagram,35-44,Masculino,São Paulo,Esportes,0.037645957085365445,57
+Instagram,18-24,Feminino,Brasília,Moda,0.03279029079843167,11
+Instagram,45-54,Masculino,Salvador,Saúde,0.032406726821005524,9
+Instagram,45-54,Feminino,Fortaleza,Esportes,0.029092540341981978,53
+Instagram,25-34,Outro,Belo Horizonte,Moda,0.04730288211273248,43
+Instagram,65+,Feminino,Salvador,Arte,0.048075479236579635,32
+Instagram,45-54,Feminino,Brasília,Esportes,0.02164795844973665,20
+Instagram,65+,Masculino,São Luís,Saúde,0.07692085493309679,11
+Instagram,18-24,Feminino,Rio de Janeiro,Educação,0.06208958975028531,24
+Instagram,65+,Masculino,Belo Horizonte,Tecnologia,0.06581566192220989,47
+Instagram,35-44,Masculino,Goiânia,Música,0.03960509936312232,53
+Instagram,45-54,Outro,Curitiba,Casa e Decoração,0.022721912977702624,22
+Instagram,45-54,Feminino,São Luís,Saúde,0.06248167127602407,26
+Instagram,18-24,Feminino,Goiânia,Casa e Decoração,0.033892776993643806,8
+Instagram,18-24,Masculino,Recife,Casa e Decoração,0.026326081560315157,36
+Instagram,55-64,Feminino,Belo Horizonte,Beleza,0.053986441161071236,28
+Instagram,25-34,Outro,Brasília,Beleza,0.052600449456111795,19
+Instagram,25-34,Outro,São Luís,Música,0.026211890024011513,49
+Instagram,25-34,Outro,Brasília,Educação,0.02226058396803544,11
+Instagram,55-64,Feminino,Belém,Esportes,0.0714235892114124,10
+Instagram,35-44,Masculino,Porto Alegre,Música,0.045470910550420005,6
+Instagram,45-54,Outro,São Paulo,Esportes,0.03649820127567674,14
+Instagram,65+,Outro,Curitiba,Beleza,0.0413528395658086,8
+Instagram,45-54,Masculino,Belo Horizonte,Viagem,0.0665661981131752,33
+Instagram,25-34,Masculino,Curitiba,Música,0.07744850370227932,52
+Instagram,18-24,Masculino,Campinas,Música,0.03188241637876647,27
+Instagram,45-54,Feminino,Goiânia,Moda,0.07126767753069006,20
+Instagram,25-34,Outro,Brasília,Educação,0.03324181636828721,43
+Instagram,35-44,Masculino,Belém,Saúde,0.021850039256465847,41
+Instagram,35-44,Feminino,Goiânia,Entretenimento,0.06515376029430583,16
+Instagram,25-34,Masculino,São Luís,Entretenimento,0.026977537859926223,36
+Instagram,25-34,Feminino,Curitiba,Casa e Decoração,0.024257857315744934,53
+Instagram,35-44,Masculino,Manaus,Música,0.028548472983754774,32
+Instagram,35-44,Outro,São Paulo,Saúde,0.04580938051813137,41
+Instagram,55-64,Masculino,São Luís,Saúde,0.03976319400432807,57
+Instagram,65+,Outro,Salvador,Culinária,0.05187151485326659,27
+Instagram,65+,Feminino,Guarulhos,Música,0.07213557158956108,31
+Instagram,18-24,Outro,São Luís,Negócios,0.06758538410807016,31
+Instagram,55-64,Masculino,Curitiba,Automóveis,0.07632066627648011,46
+Instagram,35-44,Masculino,Manaus,Automóveis,0.04556459523032742,37
+Instagram,55-64,Masculino,Belém,Viagem,0.05898435816786582,51
+Instagram,65+,Outro,Curitiba,Tecnologia,0.0730789781774702,28
+Instagram,18-24,Masculino,Salvador,Moda,0.07067138475990964,25
+Instagram,25-34,Outro,Brasília,Entretenimento,0.027254880169709717,36
+Instagram,55-64,Masculino,Fortaleza,Música,0.02917817384899208,9
+Instagram,25-34,Feminino,Manaus,Música,0.055373176341645444,16
+Instagram,35-44,Feminino,Porto Alegre,Educação,0.04227792699256191,35
+Instagram,65+,Outro,Campinas,Tecnologia,0.03264604893009009,53
+Instagram,35-44,Outro,Salvador,Automóveis,0.07154886066413119,59
+Instagram,65+,Outro,Belém,Negócios,0.030421820005651478,36
+Instagram,45-54,Feminino,Salvador,Educação,0.0665443461960191,60
+Instagram,55-64,Outro,Brasília,Automóveis,0.023512246692414536,60
+Instagram,18-24,Feminino,São Paulo,Negócios,0.07778319540625103,13
+Instagram,45-54,Feminino,Salvador,Esportes,0.07416002848335095,5
+Instagram,25-34,Outro,Guarulhos,Tecnologia,0.025291112410932213,26
+Instagram,45-54,Masculino,Guarulhos,Casa e Decoração,0.03770077516461374,29
+Instagram,35-44,Masculino,Porto Alegre,Beleza,0.06454155226598997,7
+Instagram,35-44,Masculino,Belo Horizonte,Música,0.028873866358169006,27
+Instagram,18-24,Masculino,Belo Horizonte,Viagem,0.07984322534522244,37
+Instagram,45-54,Masculino,Belém,Educação,0.050124434294012324,37
+Instagram,18-24,Outro,Fortaleza,Arte,0.024603607212524307,14
+Instagram,55-64,Masculino,Belo Horizonte,Viagem,0.021819708623886377,34
+Instagram,25-34,Masculino,Belém,Negócios,0.061169815649378595,34
+Instagram,65+,Outro,Rio de Janeiro,Saúde,0.03865642390934022,55
+Instagram,65+,Masculino,Porto Alegre,Saúde,0.029053695407780095,30
+Instagram,65+,Outro,Fortaleza,Moda,0.028374948031143314,21
+Instagram,65+,Outro,Goiânia,Negócios,0.06754083885803008,25
+Instagram,55-64,Feminino,Rio de Janeiro,Educação,0.04145190248071414,13
+Instagram,35-44,Feminino,Fortaleza,Fitness,0.06951796165967852,21
+Instagram,35-44,Masculino,Brasília,Moda,0.06260500018738548,6
+Instagram,45-54,Feminino,Manaus,Música,0.04791650632561898,27
+Instagram,35-44,Masculino,Salvador,Culinária,0.06668510455726118,40
+Instagram,18-24,Masculino,Belém,Música,0.05343571916642659,16
+Instagram,25-34,Outro,Recife,Casa e Decoração,0.028010578521177665,27
+Instagram,55-64,Masculino,Rio de Janeiro,Música,0.053902682272764124,29
+Instagram,18-24,Outro,Manaus,Saúde,0.02836227857245375,58
+Instagram,65+,Feminino,Salvador,Viagem,0.06283330441464975,32
+Instagram,45-54,Masculino,Curitiba,Entretenimento,0.04639805496789198,21
+Instagram,65+,Outro,Porto Alegre,Beleza,0.05159524197037477,33
+Instagram,45-54,Outro,São Luís,Moda,0.031727232415982236,14
+Instagram,55-64,Outro,São Luís,Automóveis,0.06209963877620511,31
+Instagram,55-64,Feminino,Brasília,Educação,0.07016081664900768,49
+Instagram,25-34,Outro,Brasília,Esportes,0.033133530186096535,7
+Instagram,45-54,Masculino,Salvador,Arte,0.04358918780713313,31
+Instagram,65+,Masculino,Fortaleza,Culinária,0.03230098482301171,56
+Instagram,18-24,Masculino,Belo Horizonte,Fitness,0.029225227034424518,48
+Instagram,18-24,Feminino,Guarulhos,Fitness,0.0707318224780058,36
+Instagram,55-64,Feminino,São Paulo,Saúde,0.06302669451248742,50
+Instagram,25-34,Feminino,Belém,Música,0.05253350956863306,54
+Instagram,65+,Feminino,São Paulo,Automóveis,0.04914686319245552,41
+Instagram,35-44,Feminino,São Luís,Música,0.07510260812141707,53
+Instagram,45-54,Outro,Salvador,Arte,0.04032486863594823,49
+Instagram,55-64,Feminino,Fortaleza,Esportes,0.05115470096061013,38
+Instagram,45-54,Masculino,Belo Horizonte,Arte,0.07189826568586773,54
+Instagram,65+,Masculino,Salvador,Viagem,0.05632897146086792,21
+Instagram,18-24,Outro,São Paulo,Saúde,0.039925485618440934,15
+Instagram,65+,Masculino,Fortaleza,Saúde,0.059355044264112256,51
+Instagram,18-24,Feminino,Curitiba,Música,0.030433537676421304,39
+Instagram,45-54,Masculino,Fortaleza,Viagem,0.07066937257953791,15
+Instagram,18-24,Outro,Curitiba,Entretenimento,0.02839445591473877,59
+Instagram,18-24,Feminino,Rio de Janeiro,Culinária,0.03356937323269795,48
+Instagram,18-24,Masculino,São Luís,Viagem,0.05266174546338448,53
+Instagram,18-24,Outro,Campinas,Viagem,0.07298648266808946,35
+Instagram,18-24,Outro,Rio de Janeiro,Tecnologia,0.057391624121038876,59
+Instagram,18-24,Feminino,Belém,Beleza,0.05945447433849388,41
+Instagram,55-64,Outro,Belém,Esportes,0.02886479280242993,19
+Instagram,65+,Masculino,São Paulo,Arte,0.04060892863957842,40
+Instagram,35-44,Outro,Rio de Janeiro,Entretenimento,0.03110694298397103,34
+Instagram,25-34,Masculino,Guarulhos,Moda,0.057605857426414386,42
+Instagram,35-44,Feminino,Belém,Entretenimento,0.02186718820779582,33
+Instagram,18-24,Feminino,Brasília,Fitness,0.04935376539533952,16
+Instagram,55-64,Outro,Belém,Culinária,0.04798063271924768,6
+Instagram,18-24,Outro,Campinas,Saúde,0.04108594391321911,27
+Instagram,65+,Masculino,Curitiba,Negócios,0.06776773018429026,17
+Instagram,65+,Masculino,Curitiba,Tecnologia,0.06677214002489397,46
+Instagram,25-34,Outro,Fortaleza,Arte,0.028308612363098132,24
+Instagram,45-54,Outro,Guarulhos,Casa e Decoração,0.07377681083094344,33
+Instagram,55-64,Feminino,Goiânia,Moda,0.06272408987967593,43
+Instagram,45-54,Masculino,Fortaleza,Arte,0.07109996821417135,31
+Instagram,45-54,Masculino,Rio de Janeiro,Entretenimento,0.0750279167029134,53
+Instagram,65+,Feminino,Rio de Janeiro,Casa e Decoração,0.04893759866985632,60
+Instagram,65+,Outro,Salvador,Negócios,0.027609828991633587,19
+Instagram,55-64,Feminino,Porto Alegre,Viagem,0.056614351729155826,26
+Instagram,35-44,Outro,Belo Horizonte,Beleza,0.06394578002281294,57
+Instagram,18-24,Outro,São Paulo,Viagem,0.04962974140341227,14
+Instagram,45-54,Masculino,Rio de Janeiro,Tecnologia,0.030600361628131546,28
+Instagram,18-24,Outro,São Paulo,Música,0.040189718798142926,11
+Instagram,55-64,Feminino,Campinas,Esportes,0.06649777491818534,7
+Instagram,35-44,Masculino,Guarulhos,Automóveis,0.04624035639588542,44
+Instagram,55-64,Outro,Campinas,Negócios,0.06599174344935899,33
+Instagram,45-54,Feminino,Campinas,Automóveis,0.07798012399248078,26
+Instagram,35-44,Outro,Salvador,Viagem,0.05050112312522053,18
+Instagram,55-64,Outro,Guarulhos,Beleza,0.03163406940594496,19
+Instagram,18-24,Outro,Belém,Educação,0.0524359476279546,35
+Instagram,25-34,Feminino,São Luís,Moda,0.07572933130022472,56
+Instagram,65+,Feminino,Guarulhos,Entretenimento,0.0473651629500471,56
+Instagram,18-24,Feminino,Rio de Janeiro,Educação,0.04279610230731486,48
+Instagram,18-24,Masculino,Campinas,Saúde,0.058219380236438675,44
+Instagram,25-34,Masculino,Curitiba,Viagem,0.04216897679536375,41
+Instagram,25-34,Outro,Fortaleza,Tecnologia,0.02293604504320896,50
+Instagram,18-24,Feminino,Brasília,Beleza,0.06602774023620858,54
+Instagram,18-24,Masculino,Manaus,Culinária,0.03024318326055636,49
+Instagram,45-54,Masculino,Recife,Automóveis,0.069004935860005,25
+Instagram,25-34,Feminino,Fortaleza,Beleza,0.05252262976436271,49
+Instagram,18-24,Feminino,Curitiba,Entretenimento,0.042972309815369425,8
+Instagram,45-54,Masculino,São Luís,Moda,0.06059560997123531,56
+Instagram,45-54,Feminino,Brasília,Viagem,0.06272590461402684,40
+Instagram,18-24,Masculino,Guarulhos,Educação,0.027751652828325715,25
+Instagram,45-54,Masculino,Brasília,Moda,0.0361220438781437,40
+Instagram,55-64,Masculino,Rio de Janeiro,Culinária,0.032131490417929,57
+Instagram,65+,Feminino,Salvador,Viagem,0.07019431514619692,27
+Instagram,65+,Masculino,Curitiba,Música,0.05722984688360329,13
+Instagram,18-24,Outro,Campinas,Tecnologia,0.0442315057573926,31
+Instagram,35-44,Outro,Belo Horizonte,Viagem,0.03706366621202685,54
+Instagram,25-34,Feminino,Goiânia,Viagem,0.07634859294780841,6
+Instagram,55-64,Masculino,Manaus,Saúde,0.07806993570188489,40
+Instagram,35-44,Outro,Brasília,Moda,0.038923134130629894,12
+Instagram,18-24,Masculino,Manaus,Fitness,0.04323938087506131,13
+Instagram,55-64,Masculino,Rio de Janeiro,Música,0.02966912680029765,60
+Instagram,65+,Masculino,Salvador,Casa e Decoração,0.07769256419154687,26
+Instagram,45-54,Feminino,Brasília,Música,0.027046023444105928,54
+Instagram,45-54,Masculino,São Paulo,Esportes,0.05574117373543605,51
+Instagram,65+,Feminino,Fortaleza,Casa e Decoração,0.05957646742884688,46
+Instagram,35-44,Masculino,Campinas,Educação,0.05628455000990276,58
+Instagram,45-54,Outro,São Luís,Viagem,0.03621487952044279,54
+Instagram,65+,Masculino,Campinas,Esportes,0.0433165266539325,17
+Instagram,65+,Feminino,Goiânia,Fitness,0.042262842999046694,30
+Instagram,18-24,Outro,Belo Horizonte,Esportes,0.022671492998937545,21
+Instagram,35-44,Outro,São Paulo,Tecnologia,0.044861043999848124,44
+Instagram,45-54,Feminino,Belém,Culinária,0.0400930896269329,40
+Instagram,45-54,Outro,Guarulhos,Moda,0.054462516781695086,25
+Instagram,25-34,Feminino,São Luís,Saúde,0.07839558935047941,43
+Instagram,35-44,Outro,Belo Horizonte,Arte,0.02497154458896908,59
+Instagram,45-54,Masculino,Goiânia,Esportes,0.03268445338700516,33
+Instagram,55-64,Feminino,Fortaleza,Viagem,0.06637506434933162,60
+Instagram,45-54,Masculino,Manaus,Casa e Decoração,0.038956760773656784,59
+Instagram,65+,Feminino,Salvador,Educação,0.0550755558063894,26
+Instagram,25-34,Feminino,Goiânia,Esportes,0.041620907672407385,44
+Instagram,45-54,Feminino,Campinas,Viagem,0.022159486465167244,59
+Instagram,25-34,Feminino,Curitiba,Moda,0.0687388295814834,8
+Instagram,45-54,Outro,Fortaleza,Saúde,0.04022889882718132,16
+Instagram,25-34,Masculino,Porto Alegre,Negócios,0.06520007186614328,14
+Instagram,25-34,Outro,Belo Horizonte,Música,0.06623104285012396,44
+Instagram,55-64,Outro,Brasília,Saúde,0.0536001715346191,35
+Instagram,45-54,Feminino,Belo Horizonte,Arte,0.07951227090254512,29
+Instagram,45-54,Feminino,Brasília,Entretenimento,0.02759331162734882,58
+Instagram,25-34,Feminino,Fortaleza,Negócios,0.07271392826646769,16
+Instagram,45-54,Feminino,Rio de Janeiro,Entretenimento,0.04328449749902706,60
+Instagram,25-34,Masculino,Porto Alegre,Viagem,0.036219128253770494,11
+Instagram,18-24,Outro,Belém,Viagem,0.06591507870233224,10
+Instagram,55-64,Feminino,Porto Alegre,Educação,0.05944376826112155,45
+Instagram,65+,Masculino,Recife,Beleza,0.03939009188409727,12
+Instagram,55-64,Feminino,Salvador,Entretenimento,0.07303631474817117,30
+Instagram,55-64,Masculino,Belém,Automóveis,0.039640169914749744,23
+Instagram,35-44,Outro,Brasília,Casa e Decoração,0.044081520691315955,48
+Instagram,55-64,Masculino,São Luís,Moda,0.058462679374300996,15
+Instagram,35-44,Outro,Salvador,Culinária,0.07235332559945565,55
+Instagram,25-34,Outro,Brasília,Viagem,0.0389639469483028,57
+Instagram,18-24,Feminino,Recife,Viagem,0.0351403673399646,55
+Instagram,35-44,Outro,Porto Alegre,Beleza,0.055489345131280454,11
+Instagram,18-24,Feminino,Guarulhos,Tecnologia,0.021322683231310556,21
+Instagram,55-64,Outro,Fortaleza,Arte,0.052738177485802715,20
+Instagram,35-44,Feminino,Salvador,Educação,0.024589759838393704,39
+Instagram,18-24,Feminino,Porto Alegre,Música,0.07438784713323292,15
+Instagram,55-64,Masculino,São Paulo,Culinária,0.042175213442068114,46
+Instagram,45-54,Feminino,Belém,Música,0.03909028887662631,45
+Instagram,45-54,Masculino,Porto Alegre,Moda,0.041165300640579244,41
+Instagram,65+,Feminino,Guarulhos,Negócios,0.0711707963598203,13
+Instagram,45-54,Feminino,Rio de Janeiro,Culinária,0.06934945278779085,11
+Instagram,55-64,Outro,São Paulo,Moda,0.05768545376856822,24
+Instagram,35-44,Feminino,Salvador,Saúde,0.044495159228441786,9
+Instagram,55-64,Feminino,Manaus,Fitness,0.07498957879953011,19
+Instagram,18-24,Feminino,Belo Horizonte,Educação,0.06820836027107066,46
+Instagram,55-64,Outro,Guarulhos,Moda,0.025416642229184536,13
+Instagram,65+,Outro,São Luís,Culinária,0.0726200184655866,41
+Instagram,25-34,Outro,Curitiba,Saúde,0.03403039386746398,32
+Instagram,65+,Masculino,Recife,Culinária,0.02510208039191104,21
+Instagram,35-44,Feminino,São Paulo,Automóveis,0.05965568729034203,20
+Instagram,18-24,Feminino,Belo Horizonte,Saúde,0.0396686657061573,18
+Instagram,35-44,Masculino,Belo Horizonte,Arte,0.07671906070703327,47
+Instagram,25-34,Feminino,Porto Alegre,Tecnologia,0.07295187023247111,24
+Instagram,35-44,Masculino,Campinas,Esportes,0.06201336679655524,11
+Instagram,65+,Feminino,São Luís,Tecnologia,0.03895309267167869,27
+Instagram,65+,Masculino,Curitiba,Educação,0.06721344933856833,24
+Instagram,18-24,Feminino,São Luís,Automóveis,0.0771156374781159,7
+Instagram,55-64,Outro,Brasília,Esportes,0.06478919699358347,18
+Instagram,18-24,Masculino,Belo Horizonte,Arte,0.02704968183717943,34
+Instagram,55-64,Outro,Campinas,Educação,0.03145280563537427,13
+Instagram,18-24,Masculino,Belo Horizonte,Esportes,0.0685743400399995,28
+Instagram,65+,Feminino,Campinas,Casa e Decoração,0.06146020683784649,24
+Instagram,35-44,Feminino,Goiânia,Arte,0.02729050107517782,16
+Instagram,35-44,Feminino,Belém,Esportes,0.0662887888338861,43
+Instagram,55-64,Outro,Belém,Música,0.06253206088642478,26
+Instagram,45-54,Outro,Guarulhos,Arte,0.07611558068991085,25
+Instagram,25-34,Masculino,Manaus,Esportes,0.06949814482130882,44
+Instagram,55-64,Feminino,Brasília,Entretenimento,0.07583881078176692,9
+Instagram,35-44,Masculino,Fortaleza,Educação,0.055407441758199824,6
+Instagram,35-44,Feminino,Fortaleza,Moda,0.027025343871684218,45
+Instagram,45-54,Outro,Fortaleza,Esportes,0.059060419902073405,21
+Instagram,45-54,Feminino,Porto Alegre,Arte,0.06502430095356164,21
+Instagram,55-64,Outro,Campinas,Arte,0.03356216162667565,27
+Instagram,55-64,Masculino,Campinas,Fitness,0.045874544280891404,32
+Instagram,45-54,Masculino,Belo Horizonte,Culinária,0.07400217871884364,56
+Instagram,18-24,Masculino,Fortaleza,Tecnologia,0.049270811965458655,51
+Instagram,65+,Masculino,Rio de Janeiro,Moda,0.06745554268323056,35
+Instagram,18-24,Outro,Porto Alegre,Saúde,0.023979481549313387,19
+Instagram,65+,Masculino,Goiânia,Esportes,0.05634904615436423,11
+Instagram,45-54,Outro,Goiânia,Educação,0.022703392426366417,44
+Instagram,35-44,Masculino,Salvador,Beleza,0.06351107037898088,12
+Instagram,25-34,Feminino,Goiânia,Viagem,0.027417264970362433,55
+Instagram,35-44,Outro,São Paulo,Música,0.05558154747986363,25
+Instagram,35-44,Outro,Rio de Janeiro,Saúde,0.06591518890498717,10
+Instagram,25-34,Outro,Campinas,Educação,0.038221965784427096,23
+Instagram,55-64,Outro,Goiânia,Casa e Decoração,0.05668255051919811,55
+Instagram,25-34,Masculino,Rio de Janeiro,Culinária,0.04960552305732313,51
+Instagram,45-54,Outro,Belém,Arte,0.048759436435766065,12
+Instagram,25-34,Outro,Belém,Música,0.03235455441267937,52
+Instagram,25-34,Outro,Belo Horizonte,Culinária,0.0718737674377893,6
+Instagram,35-44,Masculino,Fortaleza,Tecnologia,0.07797562662520859,54
+Instagram,25-34,Masculino,Recife,Viagem,0.05798810231456979,11
+Instagram,25-34,Outro,Curitiba,Educação,0.054681882375916716,46
+Instagram,35-44,Masculino,Brasília,Viagem,0.023994953507730905,32
+Instagram,35-44,Outro,Goiânia,Viagem,0.07497563865677398,26
+Instagram,65+,Feminino,Curitiba,Moda,0.06051230442160575,59
+Instagram,65+,Masculino,Guarulhos,Culinária,0.06092858283620277,32
+Instagram,35-44,Outro,Manaus,Tecnologia,0.03510765299079383,6
+Instagram,55-64,Outro,Belém,Entretenimento,0.04160158893461853,33
+Instagram,25-34,Feminino,São Luís,Arte,0.02900010263576943,14
+Instagram,55-64,Outro,Belo Horizonte,Música,0.02453429056009025,25
+Instagram,55-64,Feminino,Brasília,Educação,0.05649290119447403,6
+Instagram,45-54,Masculino,Manaus,Tecnologia,0.05095145435830352,22
+Instagram,65+,Outro,São Paulo,Educação,0.05784732504511103,53
+Instagram,55-64,Feminino,São Paulo,Viagem,0.07661640076723047,25
+Instagram,35-44,Masculino,Brasília,Arte,0.04595045991409341,46
+Instagram,45-54,Masculino,Salvador,Moda,0.049706599824381636,40
+Instagram,35-44,Masculino,Campinas,Casa e Decoração,0.07946370291548659,33
+Instagram,55-64,Outro,Fortaleza,Música,0.02454508375250529,59
+Instagram,65+,Feminino,Goiânia,Tecnologia,0.07751870788209288,9
+Instagram,18-24,Masculino,Recife,Culinária,0.028680247787392775,11
+Instagram,25-34,Masculino,São Luís,Moda,0.03557340843381575,42
+Instagram,65+,Feminino,Manaus,Beleza,0.03524091625934635,36
+Instagram,45-54,Masculino,São Luís,Música,0.04328194288595974,43
+Instagram,25-34,Outro,Goiânia,Fitness,0.07330026548020052,18
+Instagram,55-64,Feminino,Salvador,Tecnologia,0.0651436869867437,59
+Instagram,35-44,Masculino,Fortaleza,Entretenimento,0.036256822067106044,9
+Instagram,18-24,Feminino,Salvador,Viagem,0.03701058801334449,34
+Instagram,35-44,Outro,Fortaleza,Casa e Decoração,0.056037342616132024,13
+Instagram,35-44,Feminino,Guarulhos,Tecnologia,0.07813735076146124,37
+Instagram,25-34,Outro,Guarulhos,Beleza,0.043761049768307324,24
+Instagram,65+,Masculino,Salvador,Automóveis,0.03141489825150519,51
+Instagram,45-54,Masculino,Belo Horizonte,Música,0.020652875246292442,16
+Instagram,45-54,Feminino,Goiânia,Saúde,0.04353003071231971,45
+Instagram,65+,Outro,São Luís,Música,0.07455959571595137,57
+Instagram,65+,Outro,Belo Horizonte,Esportes,0.06173673525895809,9
+Instagram,65+,Outro,Manaus,Música,0.05429298381135528,40
+Instagram,65+,Feminino,Rio de Janeiro,Negócios,0.047499374519314255,17
+Instagram,18-24,Feminino,Brasília,Educação,0.07622065909803828,33
+Instagram,18-24,Outro,Salvador,Casa e Decoração,0.07135489111793206,19
+Instagram,25-34,Feminino,Curitiba,Beleza,0.07182788612672988,54
+Instagram,65+,Masculino,Goiânia,Saúde,0.0688622259847078,40
+Instagram,25-34,Feminino,Campinas,Saúde,0.04377814404849305,48
+Instagram,35-44,Masculino,Brasília,Culinária,0.06495355790428553,12
+Instagram,65+,Feminino,Brasília,Automóveis,0.051949297373749106,32
+Instagram,25-34,Masculino,Recife,Viagem,0.07036776355692295,39
+Instagram,35-44,Masculino,Fortaleza,Beleza,0.04370948502997273,19
+Instagram,35-44,Outro,São Luís,Negócios,0.03640582818055556,11
+Instagram,35-44,Outro,Guarulhos,Tecnologia,0.07067631672759635,38
+Instagram,55-64,Feminino,Brasília,Música,0.06502151510113066,33
+Instagram,25-34,Outro,Belém,Esportes,0.06013745352534047,29
+Instagram,55-64,Masculino,Brasília,Negócios,0.06751742651537102,47
+Instagram,45-54,Outro,São Luís,Moda,0.060387269449138664,5
+Instagram,65+,Feminino,Brasília,Negócios,0.06405305664090818,43
+Instagram,18-24,Masculino,Belém,Automóveis,0.04996222833701068,13
+Instagram,25-34,Masculino,Guarulhos,Entretenimento,0.02212596566528295,35
+Instagram,55-64,Outro,Campinas,Educação,0.06018654311522349,12
+Instagram,18-24,Masculino,São Luís,Esportes,0.07953178419331032,10
+Instagram,55-64,Masculino,Belo Horizonte,Arte,0.05547517345577417,56
+Instagram,25-34,Masculino,Rio de Janeiro,Saúde,0.056647331117445035,31
+Instagram,25-34,Feminino,Salvador,Automóveis,0.041932747764085974,43
+Instagram,35-44,Masculino,Brasília,Negócios,0.04230762154759099,51
+Instagram,55-64,Outro,São Paulo,Culinária,0.023483438509711664,52
+Instagram,18-24,Masculino,Curitiba,Automóveis,0.0357467293353918,31
+Instagram,45-54,Outro,Manaus,Música,0.060371755677555594,58
+Instagram,55-64,Masculino,Campinas,Fitness,0.03163907057491604,26
+Instagram,25-34,Masculino,Brasília,Culinária,0.04772205059133294,22
+Instagram,65+,Feminino,Fortaleza,Entretenimento,0.07333953211900264,39
+Instagram,55-64,Masculino,Curitiba,Fitness,0.05845810694914935,42
+Instagram,55-64,Masculino,Rio de Janeiro,Música,0.04621554402123216,38
+Instagram,45-54,Masculino,Fortaleza,Esportes,0.05111820109487273,60
+Instagram,65+,Masculino,Belo Horizonte,Automóveis,0.07544750100321315,52
+Instagram,55-64,Outro,Recife,Negócios,0.037184767059141095,14
+Instagram,18-24,Outro,Salvador,Viagem,0.06810401012182783,22
+Instagram,65+,Feminino,São Luís,Entretenimento,0.049454167312226543,60
+Instagram,18-24,Feminino,Porto Alegre,Moda,0.022529560075539155,29
+Instagram,18-24,Masculino,Rio de Janeiro,Entretenimento,0.04165630839739498,5
+Instagram,25-34,Outro,Salvador,Saúde,0.02009429710173615,53
+Instagram,18-24,Feminino,Curitiba,Automóveis,0.03171979492125394,16
+Instagram,55-64,Feminino,Campinas,Moda,0.022120564298737856,53
+Instagram,35-44,Outro,Rio de Janeiro,Moda,0.03279000948456205,10
+Instagram,18-24,Outro,Porto Alegre,Automóveis,0.05377164324527314,10
+Instagram,55-64,Masculino,Brasília,Negócios,0.06764910177958687,57
+Instagram,55-64,Outro,Goiânia,Automóveis,0.05283871474183058,10
+Instagram,35-44,Feminino,São Paulo,Saúde,0.02785871963319796,50
+Instagram,65+,Outro,Guarulhos,Culinária,0.03695606846393343,56
+Instagram,55-64,Outro,São Luís,Educação,0.07849826670276125,60
+Instagram,45-54,Feminino,São Luís,Educação,0.03087547896642239,15
+Instagram,35-44,Masculino,São Luís,Casa e Decoração,0.06332132474857813,53
+Instagram,25-34,Feminino,Manaus,Esportes,0.03252915070524337,12
+Instagram,18-24,Masculino,Goiânia,Música,0.0795647794648116,50
+Instagram,45-54,Masculino,Fortaleza,Casa e Decoração,0.04878643092119981,21
+Instagram,55-64,Feminino,Belém,Moda,0.06860902187715677,25
+Instagram,65+,Outro,Manaus,Viagem,0.051966096691319894,34
+Instagram,65+,Outro,Campinas,Arte,0.021512288144538257,14
+Instagram,45-54,Masculino,Recife,Negócios,0.07467387235231711,57
+Instagram,18-24,Feminino,Salvador,Fitness,0.046433702217019354,8
+Instagram,35-44,Masculino,Salvador,Educação,0.049361672486158595,50
+Instagram,65+,Masculino,Rio de Janeiro,Música,0.05169711554330739,26
+Instagram,35-44,Masculino,Belo Horizonte,Música,0.039461635171125005,38
+Instagram,35-44,Outro,Porto Alegre,Entretenimento,0.049212532274761855,44
+Instagram,45-54,Masculino,Manaus,Educação,0.024430508850350655,6
+Instagram,55-64,Masculino,Brasília,Saúde,0.05536064458026971,38
+Instagram,45-54,Feminino,Belo Horizonte,Negócios,0.043856041952911574,25
+Instagram,35-44,Masculino,Manaus,Negócios,0.04220760600191997,60
+Instagram,25-34,Outro,Curitiba,Educação,0.0774006023075237,5
+Instagram,35-44,Outro,Recife,Educação,0.045866693177054024,38
+Instagram,55-64,Masculino,Fortaleza,Entretenimento,0.03103836101715516,22
+Instagram,55-64,Feminino,Campinas,Fitness,0.03481793083403729,39
+Instagram,65+,Masculino,Belo Horizonte,Culinária,0.042829426816580037,30
+Instagram,45-54,Masculino,Goiânia,Viagem,0.06694565770573499,59
+Instagram,25-34,Outro,Salvador,Fitness,0.07669981214251859,42
+Instagram,18-24,Feminino,Goiânia,Saúde,0.07095488356133121,10
+Instagram,65+,Masculino,Goiânia,Saúde,0.025899981409951117,47
+Instagram,35-44,Masculino,Rio de Janeiro,Saúde,0.02658115846466376,13
+Instagram,65+,Masculino,Rio de Janeiro,Fitness,0.07957513085646055,53
+Instagram,55-64,Masculino,Recife,Automóveis,0.025700290617135916,38
+Instagram,55-64,Outro,São Luís,Automóveis,0.031198722311743303,13
+Instagram,45-54,Masculino,Manaus,Culinária,0.057176732763658505,33
+Instagram,35-44,Masculino,Belém,Automóveis,0.06706710722918431,37
+Instagram,65+,Outro,Rio de Janeiro,Beleza,0.06237404559092839,15
+Instagram,25-34,Masculino,Belo Horizonte,Música,0.021713848226119388,41
+Instagram,35-44,Feminino,Salvador,Casa e Decoração,0.06277023103945584,30
+Instagram,65+,Masculino,Brasília,Viagem,0.026093361102587052,26
+Instagram,35-44,Feminino,Guarulhos,Negócios,0.03853058964111786,17
+Instagram,55-64,Masculino,Fortaleza,Tecnologia,0.07721330157471266,33
+Instagram,18-24,Masculino,São Luís,Educação,0.03178242461210942,42
+Instagram,35-44,Feminino,São Paulo,Culinária,0.06848716552048102,28
+Instagram,35-44,Outro,Recife,Saúde,0.06662483492316462,25
+Instagram,35-44,Masculino,Porto Alegre,Fitness,0.027294788832822638,32
+Instagram,25-34,Outro,Goiânia,Música,0.06314496778726403,6
+Instagram,45-54,Feminino,Recife,Casa e Decoração,0.040953043775280216,5
+Instagram,65+,Feminino,Porto Alegre,Educação,0.05010178886970479,48
+Instagram,18-24,Feminino,Recife,Fitness,0.029248768297416874,10
+Instagram,55-64,Feminino,Rio de Janeiro,Saúde,0.04032243553048421,32
+Instagram,18-24,Feminino,Rio de Janeiro,Viagem,0.07631669985926715,49
+Instagram,18-24,Feminino,Brasília,Moda,0.07093524161378062,9
+Instagram,25-34,Masculino,Belém,Educação,0.050445485598744,6
+Instagram,18-24,Outro,Belo Horizonte,Casa e Decoração,0.0713247069232734,40
+Instagram,35-44,Feminino,Rio de Janeiro,Negócios,0.04129674173461262,31
+Instagram,25-34,Feminino,Rio de Janeiro,Culinária,0.036815540256131374,20
+Instagram,55-64,Masculino,São Paulo,Arte,0.06497386825223876,21
+Instagram,25-34,Feminino,Brasília,Arte,0.07275051289482075,7
+Instagram,45-54,Feminino,Curitiba,Tecnologia,0.05505110250268551,8
+Instagram,25-34,Feminino,São Luís,Entretenimento,0.07957729300198403,24
+Instagram,65+,Masculino,São Luís,Fitness,0.07243932505845292,56
+Instagram,35-44,Masculino,Belo Horizonte,Arte,0.055103664852905326,32
+Instagram,18-24,Feminino,Belém,Saúde,0.06276928014880694,14
+Instagram,35-44,Masculino,Rio de Janeiro,Automóveis,0.051812418751660164,46
+Instagram,45-54,Masculino,Porto Alegre,Arte,0.057636747898289334,9
+Instagram,25-34,Feminino,São Paulo,Educação,0.06436273338156621,21
+Instagram,25-34,Masculino,Fortaleza,Música,0.0700581046903856,13
+Instagram,65+,Masculino,São Paulo,Viagem,0.025841380647655805,11
+Instagram,65+,Outro,Manaus,Beleza,0.07514857378338445,49
+Instagram,35-44,Feminino,Belém,Esportes,0.07844867910782544,30
+Instagram,55-64,Outro,Brasília,Automóveis,0.0354772753441636,31
+Instagram,18-24,Masculino,São Paulo,Casa e Decoração,0.03939871100507434,41
+Instagram,35-44,Masculino,Fortaleza,Negócios,0.030811923339792192,15
+Instagram,25-34,Feminino,Recife,Beleza,0.03234107613348036,36
+Instagram,65+,Outro,Curitiba,Educação,0.045092073948375735,53
+Instagram,55-64,Feminino,Curitiba,Automóveis,0.06534527441164001,50
+Instagram,25-34,Masculino,Salvador,Fitness,0.052486883746475976,55
+Instagram,55-64,Feminino,Manaus,Culinária,0.05723774707344674,17
+Instagram,65+,Masculino,Goiânia,Negócios,0.05654447650498087,13
+Instagram,45-54,Masculino,Porto Alegre,Música,0.06209891490634997,60
+Instagram,65+,Outro,Belém,Moda,0.04343750783682282,38
+Instagram,65+,Feminino,São Luís,Moda,0.029293200832439366,7
+Instagram,65+,Outro,Porto Alegre,Arte,0.038631160915855806,19
+Instagram,25-34,Feminino,Campinas,Entretenimento,0.05064811344237743,29
+Instagram,25-34,Masculino,Curitiba,Automóveis,0.05271782138078754,47
+Instagram,55-64,Masculino,Porto Alegre,Culinária,0.07283852674921733,7
+Instagram,35-44,Outro,Brasília,Música,0.03313501291328679,57
+Instagram,35-44,Masculino,Brasília,Música,0.045119072875223445,36
+Instagram,55-64,Feminino,Belo Horizonte,Automóveis,0.04397170846796715,8
+Instagram,35-44,Outro,Belém,Esportes,0.052024441056655546,50
+Instagram,55-64,Outro,Manaus,Entretenimento,0.07649471759898381,24
+Instagram,55-64,Feminino,Campinas,Arte,0.06069539779056887,28
+Instagram,25-34,Masculino,Fortaleza,Viagem,0.0301470609877848,31
+Instagram,25-34,Outro,Belém,Automóveis,0.051001992481474426,29
+Instagram,25-34,Masculino,Belo Horizonte,Fitness,0.04125882486669012,43
+Instagram,65+,Feminino,São Paulo,Saúde,0.026181883323699345,50
+Instagram,35-44,Outro,Rio de Janeiro,Culinária,0.0656071826067033,53
+Instagram,45-54,Masculino,Goiânia,Esportes,0.05281815828477224,26
+Instagram,25-34,Outro,Rio de Janeiro,Culinária,0.052663162971040636,11
+Instagram,45-54,Outro,São Luís,Culinária,0.07801249430095926,53
+Instagram,55-64,Feminino,Salvador,Casa e Decoração,0.02397562031444753,14
+Instagram,65+,Feminino,Salvador,Culinária,0.056607746727833946,25
+Instagram,45-54,Feminino,Goiânia,Tecnologia,0.07175464235440136,24
+Instagram,45-54,Masculino,Brasília,Esportes,0.03580009165418069,24
+Instagram,55-64,Feminino,Brasília,Culinária,0.07132638052426751,18
+Instagram,18-24,Outro,Recife,Moda,0.03157416653275922,34
+Instagram,25-34,Outro,São Luís,Casa e Decoração,0.06999134377162915,54
+Instagram,45-54,Masculino,Recife,Entretenimento,0.06633982185581061,18
+Instagram,65+,Feminino,Recife,Saúde,0.03442395988881615,35
+Instagram,18-24,Outro,Curitiba,Arte,0.03881405603144905,37
+Instagram,35-44,Outro,Belo Horizonte,Música,0.0718254405225578,31
+Instagram,45-54,Feminino,Curitiba,Negócios,0.035695994172876486,28
+Instagram,45-54,Masculino,Curitiba,Casa e Decoração,0.061975495768408315,37
+Instagram,45-54,Feminino,Rio de Janeiro,Tecnologia,0.03154817518852866,27
+Instagram,25-34,Outro,Campinas,Entretenimento,0.050874530757274966,48
+Instagram,65+,Masculino,Recife,Tecnologia,0.051826532762833666,30
+Instagram,45-54,Masculino,Rio de Janeiro,Culinária,0.07286521629666402,30
+Instagram,18-24,Masculino,São Paulo,Educação,0.05823859169910288,21
+Instagram,35-44,Feminino,Recife,Saúde,0.04317392167952348,45
+Instagram,18-24,Masculino,Belém,Negócios,0.02675913873640368,16
+Instagram,55-64,Outro,São Paulo,Negócios,0.03196439716618888,56
+Instagram,25-34,Feminino,Curitiba,Entretenimento,0.07876800023139453,46
+Instagram,25-34,Feminino,Fortaleza,Tecnologia,0.06632352427264981,37
+Instagram,45-54,Outro,São Luís,Negócios,0.07475607310385651,38
+Instagram,18-24,Masculino,Salvador,Música,0.06508494089460273,31
+Instagram,45-54,Outro,Curitiba,Tecnologia,0.07398360720342194,50
+Instagram,35-44,Feminino,Manaus,Fitness,0.05810159388419753,35
+Instagram,35-44,Feminino,Recife,Tecnologia,0.03428134344772367,37
+Instagram,55-64,Masculino,Fortaleza,Culinária,0.022651855357537835,45
+Instagram,55-64,Outro,Curitiba,Casa e Decoração,0.05366323190437221,49
+Instagram,25-34,Outro,Recife,Esportes,0.04366105512855151,45
+Instagram,55-64,Masculino,São Luís,Entretenimento,0.028423093398228294,36
+Instagram,35-44,Outro,Brasília,Educação,0.05425366391640067,41
+Instagram,18-24,Feminino,Curitiba,Fitness,0.06910343673154261,49
+Instagram,35-44,Masculino,Belém,Música,0.04853404227414587,39
+Instagram,45-54,Outro,Recife,Entretenimento,0.07837130531664908,43
+Instagram,25-34,Outro,Belém,Negócios,0.03234190783184465,44
+Instagram,18-24,Masculino,Recife,Moda,0.06891291210932368,13
+Instagram,55-64,Outro,Campinas,Negócios,0.07097613268063614,29
+Instagram,25-34,Masculino,Curitiba,Arte,0.02607152871461384,10
+Instagram,18-24,Feminino,Belém,Esportes,0.03244666026394538,15
+Instagram,65+,Outro,Manaus,Arte,0.06202792408202093,32
+Instagram,45-54,Outro,Recife,Fitness,0.06164065172983191,22
+Instagram,45-54,Masculino,Rio de Janeiro,Música,0.03548486157655596,58
+Instagram,45-54,Masculino,Fortaleza,Moda,0.043915293660198494,25
+Instagram,35-44,Masculino,Goiânia,Fitness,0.04197900672819621,7
+Instagram,65+,Outro,Curitiba,Fitness,0.07188943536435445,33
+Instagram,45-54,Masculino,Fortaleza,Beleza,0.032125681005383946,24
+Instagram,18-24,Feminino,Brasília,Educação,0.06215206429194173,14
+Instagram,55-64,Masculino,Rio de Janeiro,Educação,0.04412613479804489,42
+Instagram,45-54,Feminino,Curitiba,Música,0.04916682030571059,43
+Instagram,25-34,Masculino,Curitiba,Beleza,0.024038048695633096,36
+Instagram,55-64,Feminino,Belém,Culinária,0.020481558051455708,56
+Instagram,25-34,Outro,Manaus,Culinária,0.07316197626349233,56
+Instagram,65+,Masculino,Belo Horizonte,Esportes,0.07059704145763669,55
+Instagram,65+,Masculino,Belo Horizonte,Automóveis,0.05198452643995462,20
+Instagram,25-34,Outro,São Luís,Entretenimento,0.02344663747174062,54
+Instagram,45-54,Feminino,Curitiba,Negócios,0.052074006586794105,12
+Instagram,55-64,Masculino,Porto Alegre,Tecnologia,0.0647211257741699,6
+Instagram,35-44,Masculino,Belo Horizonte,Música,0.02740429441509349,11
+Instagram,25-34,Feminino,Porto Alegre,Viagem,0.0471711424575428,28
+Instagram,55-64,Outro,Guarulhos,Fitness,0.07082968057015135,43
+Instagram,65+,Feminino,Rio de Janeiro,Educação,0.03270006318948654,54
+Instagram,35-44,Outro,Brasília,Moda,0.04916442156441151,39
+Instagram,35-44,Feminino,Belém,Negócios,0.02884369512341705,27
+Instagram,25-34,Feminino,Salvador,Saúde,0.04369803379216264,23
+Instagram,65+,Feminino,Brasília,Viagem,0.06512793760638186,35
+Instagram,25-34,Masculino,Goiânia,Viagem,0.04698145300456799,27
+Instagram,45-54,Masculino,Curitiba,Viagem,0.0514927868050834,49
+Instagram,35-44,Feminino,Porto Alegre,Tecnologia,0.05163456129080543,29
+Instagram,45-54,Masculino,Manaus,Automóveis,0.05220866365118208,22
+Instagram,18-24,Feminino,Curitiba,Viagem,0.06361000020244252,13
+Instagram,65+,Masculino,São Paulo,Entretenimento,0.03878577541206491,47
+Instagram,45-54,Feminino,Manaus,Beleza,0.07213956000260818,41
+Instagram,65+,Feminino,Curitiba,Automóveis,0.04748787993525408,49
+Instagram,18-24,Masculino,Salvador,Culinária,0.0649610268598187,15
+Instagram,55-64,Masculino,Manaus,Automóveis,0.021052864733066355,50
+Instagram,65+,Masculino,Rio de Janeiro,Entretenimento,0.05209349625213848,14
+Instagram,45-54,Outro,Fortaleza,Viagem,0.04886391202206271,33
+Instagram,55-64,Feminino,Goiânia,Entretenimento,0.0705444742118529,14
+Instagram,65+,Masculino,Porto Alegre,Casa e Decoração,0.02331204153058753,28
+Instagram,35-44,Masculino,Curitiba,Negócios,0.046681154363877486,25
+Instagram,65+,Outro,São Luís,Música,0.04489224125667639,16
+Instagram,25-34,Outro,Recife,Moda,0.028729409938839004,31
+Instagram,18-24,Masculino,Recife,Beleza,0.06642895988681458,24
+Instagram,18-24,Outro,Recife,Culinária,0.0426546261441131,31
+Instagram,65+,Outro,Recife,Esportes,0.06804061812474578,19
+Instagram,35-44,Outro,Brasília,Negócios,0.047843079166714354,47
+Instagram,65+,Feminino,Brasília,Moda,0.06559678053097076,56
+Instagram,25-34,Masculino,Salvador,Saúde,0.05413027641740516,28
+Instagram,45-54,Outro,Salvador,Educação,0.036142418803018606,36
+Instagram,18-24,Feminino,Guarulhos,Casa e Decoração,0.0472267903032481,55
+Instagram,18-24,Outro,Brasília,Negócios,0.052389241530090364,34
+Instagram,55-64,Feminino,Porto Alegre,Negócios,0.07570189856366179,19
+Instagram,25-34,Feminino,Salvador,Música,0.02890238793779602,19
+Instagram,65+,Masculino,São Paulo,Moda,0.07269497471479858,28
+Instagram,18-24,Outro,Porto Alegre,Negócios,0.058150906345617176,15
+Instagram,18-24,Feminino,Guarulhos,Entretenimento,0.057537597506689506,45
+Instagram,55-64,Masculino,Curitiba,Educação,0.03755937953964553,47
+Instagram,45-54,Masculino,Belo Horizonte,Negócios,0.03319574214592053,40
+Instagram,35-44,Masculino,Campinas,Culinária,0.06933155165565984,59
+Instagram,18-24,Outro,Brasília,Culinária,0.03543407181685503,55
+Instagram,45-54,Feminino,Manaus,Moda,0.05266506290253582,18
+Instagram,45-54,Masculino,Campinas,Fitness,0.05528997819738016,37
+Instagram,25-34,Feminino,Fortaleza,Educação,0.041629560631112034,13
+Instagram,55-64,Feminino,Salvador,Fitness,0.04198340085214501,47
+Instagram,45-54,Masculino,Goiânia,Educação,0.04362887326395921,27
+Instagram,45-54,Feminino,Belém,Culinária,0.061644428535331655,47
+Instagram,65+,Feminino,Belo Horizonte,Arte,0.062416694086294175,6
+Instagram,18-24,Masculino,São Luís,Educação,0.024520095170190638,31
+Instagram,35-44,Feminino,Campinas,Moda,0.04891784098577752,33
+Instagram,18-24,Feminino,Curitiba,Negócios,0.07950803899163385,38
+Instagram,65+,Outro,Recife,Casa e Decoração,0.05768219361131123,37
+Instagram,25-34,Feminino,Goiânia,Educação,0.04592427219849987,42
+Instagram,65+,Masculino,Recife,Automóveis,0.043271881328833986,18
+Instagram,65+,Masculino,Manaus,Culinária,0.0749954339811304,8
+Instagram,55-64,Outro,Recife,Casa e Decoração,0.06182501031050493,21
+Instagram,45-54,Outro,Manaus,Educação,0.05082544427554719,11
+Instagram,18-24,Outro,Curitiba,Automóveis,0.04611873439058799,60
+Instagram,65+,Feminino,Brasília,Esportes,0.03132841544835156,11
+Instagram,35-44,Outro,São Paulo,Educação,0.03256642553052115,14
+Instagram,35-44,Feminino,São Paulo,Automóveis,0.028025273002092527,28
+Instagram,35-44,Outro,Goiânia,Moda,0.049041191182199524,47
+Instagram,45-54,Masculino,Manaus,Música,0.06662975579905168,40
+Instagram,25-34,Masculino,Guarulhos,Beleza,0.02339154636753842,59
+Instagram,55-64,Outro,Manaus,Culinária,0.04858126511170771,56
+Instagram,25-34,Feminino,Goiânia,Fitness,0.04337102513783293,35
+Instagram,25-34,Feminino,São Paulo,Tecnologia,0.029281731228596203,29
+Instagram,45-54,Feminino,Salvador,Arte,0.053372279179472334,36
+Instagram,18-24,Masculino,Fortaleza,Beleza,0.056025577126154164,27
+Instagram,18-24,Outro,Recife,Entretenimento,0.06143815027849776,25
+Instagram,25-34,Masculino,Fortaleza,Negócios,0.05149835906043122,23
+Instagram,25-34,Outro,Fortaleza,Saúde,0.0355940171077113,36
+Instagram,65+,Feminino,Belém,Casa e Decoração,0.06159484261517148,17
+Instagram,35-44,Outro,Porto Alegre,Tecnologia,0.07619993771475785,11
+Instagram,18-24,Feminino,Fortaleza,Educação,0.05701738460896437,6
+Instagram,18-24,Masculino,Rio de Janeiro,Moda,0.05383359547384951,29
+Instagram,18-24,Masculino,Porto Alegre,Culinária,0.06498335300556961,49
+Instagram,25-34,Feminino,Curitiba,Esportes,0.05973376522070352,5
+Instagram,18-24,Feminino,Campinas,Música,0.029178105120807735,59
+Instagram,25-34,Masculino,Curitiba,Beleza,0.035515467727447424,35
+Instagram,35-44,Masculino,Salvador,Saúde,0.06398869397304005,51
+Instagram,55-64,Outro,São Paulo,Automóveis,0.022321158942560978,49
+Instagram,25-34,Masculino,Belo Horizonte,Tecnologia,0.0655420612180596,14
+Instagram,45-54,Outro,Manaus,Arte,0.05023933800328773,14
+Instagram,18-24,Masculino,Manaus,Casa e Decoração,0.07744697357979972,29
+Instagram,45-54,Outro,Porto Alegre,Beleza,0.07509329176835214,42
+Instagram,45-54,Outro,Goiânia,Saúde,0.03932966170828438,47
+Instagram,65+,Feminino,Brasília,Tecnologia,0.03344336064736036,54
+Instagram,18-24,Outro,Recife,Viagem,0.05017351441838648,46
+Instagram,18-24,Outro,Belém,Viagem,0.036261408687859306,23
+Instagram,18-24,Masculino,São Luís,Moda,0.07967513759560578,26
+Instagram,65+,Masculino,Manaus,Culinária,0.06914614004941856,32
+Instagram,25-34,Outro,Rio de Janeiro,Moda,0.031541050144808916,13
+Instagram,18-24,Outro,Goiânia,Casa e Decoração,0.058093513221858226,37
+Instagram,35-44,Feminino,Curitiba,Beleza,0.02526518459893298,6
+Instagram,55-64,Outro,Salvador,Negócios,0.03775882019614615,56
+Instagram,25-34,Outro,São Luís,Entretenimento,0.05063418924907016,36
+Instagram,25-34,Masculino,Curitiba,Moda,0.03285408281597769,32
+Instagram,25-34,Masculino,Brasília,Esportes,0.051428297599277945,28
+Instagram,55-64,Outro,Curitiba,Casa e Decoração,0.03610817698267235,41
+Instagram,35-44,Outro,Recife,Educação,0.0631144631307667,22
+Instagram,55-64,Feminino,Belém,Fitness,0.02660425871074185,53
+Instagram,65+,Outro,Campinas,Automóveis,0.03367902602119974,40
+Instagram,35-44,Masculino,São Paulo,Negócios,0.04624147651840724,29
+Instagram,18-24,Feminino,Campinas,Música,0.05231442769787746,23
+Instagram,35-44,Outro,Goiânia,Entretenimento,0.041192773707616356,29
+Instagram,25-34,Feminino,Rio de Janeiro,Esportes,0.0720518370526246,36
+Instagram,18-24,Outro,São Luís,Tecnologia,0.06364843688532791,19
+Instagram,65+,Feminino,Belém,Viagem,0.06667244542202791,24
+Instagram,55-64,Masculino,Porto Alegre,Tecnologia,0.02839273889983675,13
+Instagram,25-34,Outro,Recife,Esportes,0.07480042794979812,10
+Instagram,18-24,Outro,Brasília,Entretenimento,0.02817205773045945,52
+Instagram,55-64,Outro,São Luís,Negócios,0.02122612159894959,31
+Instagram,18-24,Outro,Fortaleza,Casa e Decoração,0.05624063423748843,33
+Instagram,65+,Outro,Rio de Janeiro,Negócios,0.025314932154108755,57
+Instagram,35-44,Outro,São Paulo,Entretenimento,0.02260178099647687,8
+Instagram,55-64,Outro,Porto Alegre,Culinária,0.03498761641362237,23
+Instagram,65+,Masculino,Belo Horizonte,Culinária,0.07386430270510637,40
+Instagram,18-24,Masculino,Fortaleza,Educação,0.022530207322137306,10
+Instagram,45-54,Outro,Campinas,Viagem,0.037116334377777026,15
+Instagram,35-44,Feminino,Brasília,Negócios,0.03153335059523014,11
+Instagram,18-24,Masculino,Manaus,Educação,0.05543240417565899,19
+Instagram,65+,Masculino,Porto Alegre,Negócios,0.05595623194517732,59
+Instagram,18-24,Outro,Manaus,Viagem,0.051126034388325324,31
+Instagram,65+,Masculino,Rio de Janeiro,Moda,0.05709305751622695,22
+Instagram,25-34,Masculino,Salvador,Moda,0.04063902163627646,44
+Instagram,55-64,Feminino,São Paulo,Educação,0.04827369207747627,30
+Instagram,35-44,Outro,Manaus,Arte,0.049132743919873406,31
+Instagram,65+,Masculino,São Paulo,Fitness,0.0784863578440907,41
+Instagram,55-64,Feminino,São Paulo,Música,0.05711112852463601,44
+Instagram,55-64,Masculino,São Luís,Culinária,0.036509936179342964,44
+Instagram,65+,Outro,Goiânia,Casa e Decoração,0.06593610419812623,13
+Instagram,18-24,Masculino,Belo Horizonte,Entretenimento,0.02705641677987406,57
+Instagram,18-24,Outro,Porto Alegre,Arte,0.06336480179288552,26
+Instagram,45-54,Masculino,São Paulo,Casa e Decoração,0.0564141759963144,54
+Instagram,25-34,Outro,São Paulo,Viagem,0.07426910851761258,43
+Instagram,55-64,Masculino,Campinas,Esportes,0.05195544801752025,10
+Instagram,25-34,Feminino,Manaus,Esportes,0.02658506225366442,21
+Instagram,35-44,Masculino,Curitiba,Arte,0.020836602641768755,42
+Instagram,18-24,Feminino,Salvador,Viagem,0.024141671602744354,54
+Instagram,55-64,Masculino,Recife,Fitness,0.02616721864851941,58
+Instagram,25-34,Feminino,Rio de Janeiro,Culinária,0.03134219518640875,56
+Instagram,18-24,Outro,Rio de Janeiro,Viagem,0.027510356933179905,57
+Instagram,25-34,Feminino,São Luís,Educação,0.05672135866008719,6
+Instagram,25-34,Outro,Belo Horizonte,Moda,0.03562487997408577,38
+Instagram,25-34,Outro,Salvador,Tecnologia,0.03131864203607438,18
+Instagram,55-64,Feminino,Belo Horizonte,Moda,0.056865180133625876,16
+Instagram,55-64,Feminino,São Luís,Moda,0.02988094345273872,36
+Instagram,65+,Masculino,São Paulo,Negócios,0.02269061555480402,56
+Instagram,35-44,Masculino,Rio de Janeiro,Casa e Decoração,0.0771366657396539,18
+Instagram,45-54,Masculino,São Luís,Música,0.047583515914005545,34
+Instagram,25-34,Outro,Brasília,Culinária,0.06165879266998689,58
+Instagram,55-64,Masculino,São Paulo,Negócios,0.05606638803892147,45
+Instagram,25-34,Outro,Brasília,Entretenimento,0.036738907168571464,12
+Instagram,55-64,Feminino,Belo Horizonte,Moda,0.060151623920357916,42
+Instagram,35-44,Masculino,Campinas,Saúde,0.05281823955372199,56
+Instagram,25-34,Outro,São Paulo,Automóveis,0.057767729394635356,13
+Instagram,45-54,Masculino,Guarulhos,Tecnologia,0.02589111188287872,15
+Instagram,65+,Outro,São Luís,Entretenimento,0.05966386002552847,34
+Instagram,65+,Outro,Manaus,Beleza,0.06419818418918018,30
+Instagram,18-24,Masculino,Curitiba,Tecnologia,0.03267402750033334,27
+Instagram,65+,Masculino,Salvador,Esportes,0.04593750636554679,16
+Instagram,45-54,Outro,Porto Alegre,Automóveis,0.048139871687683064,60
+Instagram,55-64,Masculino,Manaus,Esportes,0.07919401942011546,44
+Instagram,18-24,Outro,Porto Alegre,Fitness,0.053501126314826064,37
+Instagram,18-24,Feminino,Rio de Janeiro,Moda,0.07225176236931855,32
+Instagram,18-24,Feminino,São Paulo,Viagem,0.05346465511290381,16
+Instagram,25-34,Feminino,Porto Alegre,Viagem,0.07511731973095641,24
+Instagram,35-44,Masculino,Brasília,Esportes,0.04970990922902918,43
+Instagram,65+,Outro,Rio de Janeiro,Viagem,0.0571699392585399,57
+Instagram,25-34,Masculino,São Luís,Arte,0.02704596589612298,33
+Instagram,65+,Masculino,Salvador,Arte,0.028553600908447645,39
+Instagram,65+,Masculino,São Luís,Saúde,0.044090532985846635,32
+Instagram,35-44,Masculino,Guarulhos,Casa e Decoração,0.04311454374178859,46
+Instagram,35-44,Feminino,Brasília,Casa e Decoração,0.07069064774322767,24
+Instagram,55-64,Outro,Recife,Fitness,0.038359972807427554,47
+Instagram,35-44,Outro,Rio de Janeiro,Arte,0.06260068713661586,15
+Instagram,55-64,Masculino,Campinas,Tecnologia,0.028592321961759877,30
+Instagram,45-54,Feminino,Belém,Negócios,0.07104836856301687,12
+Instagram,55-64,Outro,Rio de Janeiro,Tecnologia,0.03129640411822207,30
+Instagram,25-34,Feminino,Rio de Janeiro,Saúde,0.05937455297209719,9
+Instagram,55-64,Masculino,Guarulhos,Esportes,0.04179753925852807,46
+Instagram,25-34,Outro,Rio de Janeiro,Esportes,0.03271198332538504,15
+Instagram,55-64,Masculino,Recife,Viagem,0.0747748536849759,56
+Instagram,25-34,Outro,Porto Alegre,Viagem,0.07975657317249471,58
+Instagram,55-64,Masculino,Fortaleza,Fitness,0.05504074624270981,48
+Instagram,35-44,Feminino,Belo Horizonte,Fitness,0.06696639673875877,56
+Instagram,65+,Outro,Guarulhos,Esportes,0.0407640540730142,41
+Instagram,65+,Outro,Porto Alegre,Educação,0.038666132171390574,52
+Instagram,35-44,Feminino,Salvador,Música,0.05657013359658711,18
+Instagram,18-24,Outro,São Luís,Esportes,0.07208005439529826,42
+Instagram,25-34,Feminino,Belém,Fitness,0.07140467643425866,18
+Instagram,25-34,Outro,Brasília,Viagem,0.07834017586342054,41
+Instagram,65+,Feminino,Belém,Beleza,0.039697414435590425,55
+Instagram,65+,Masculino,Porto Alegre,Beleza,0.025400270424959036,20
+Instagram,65+,Masculino,Manaus,Esportes,0.05857765986901502,46
+Instagram,25-34,Masculino,São Paulo,Viagem,0.030572634306186272,32
+Instagram,55-64,Outro,Curitiba,Automóveis,0.07501866719875017,23
+Instagram,18-24,Feminino,São Paulo,Música,0.05639254389645733,18
+Instagram,65+,Outro,Salvador,Saúde,0.07716353421937626,55
+Instagram,25-34,Outro,Belém,Beleza,0.06625445183849477,20
+Instagram,18-24,Masculino,Guarulhos,Música,0.022515093187181583,57
+Instagram,45-54,Masculino,São Paulo,Culinária,0.04613518174879902,41
+Instagram,45-54,Outro,Goiânia,Educação,0.07177747549120944,12
+Instagram,18-24,Masculino,Brasília,Educação,0.0662247482037045,54
+Instagram,55-64,Feminino,Goiânia,Música,0.06724259490213268,8
+Instagram,18-24,Masculino,Goiânia,Entretenimento,0.04692726657087825,48
+Instagram,65+,Outro,Curitiba,Casa e Decoração,0.04532350610859531,12
+Instagram,65+,Masculino,Manaus,Fitness,0.032834133240861485,8
+Instagram,45-54,Masculino,Brasília,Esportes,0.02807343433604139,26
+Instagram,35-44,Masculino,São Paulo,Viagem,0.025491216861128763,45
+Instagram,35-44,Feminino,Rio de Janeiro,Viagem,0.024463420966153924,5
+Instagram,25-34,Feminino,Campinas,Esportes,0.05828475840910774,59
+Instagram,25-34,Outro,Fortaleza,Esportes,0.05071278836570245,37
+Instagram,65+,Masculino,Goiânia,Entretenimento,0.045743702555435084,18
+Instagram,45-54,Masculino,Belo Horizonte,Moda,0.058905173010298184,6
+Instagram,65+,Outro,Goiânia,Esportes,0.05118767061315431,18
+Instagram,55-64,Outro,Recife,Automóveis,0.06710820455232062,30
+Instagram,65+,Masculino,Rio de Janeiro,Moda,0.06343872233630334,46
+Instagram,18-24,Masculino,Goiânia,Música,0.029304570110494137,40
+Instagram,55-64,Outro,São Paulo,Arte,0.04514542774560082,51
+Instagram,65+,Outro,Salvador,Culinária,0.03362846352149988,11
+Instagram,25-34,Outro,Rio de Janeiro,Música,0.058813648380854316,54
+Instagram,25-34,Outro,São Luís,Culinária,0.04628572862668534,23
+Instagram,65+,Masculino,Belo Horizonte,Entretenimento,0.02859331251706296,43
+Instagram,65+,Masculino,Brasília,Esportes,0.042936586718268485,5
+Instagram,35-44,Masculino,Rio de Janeiro,Esportes,0.038610856584172466,41
+Instagram,18-24,Feminino,São Paulo,Moda,0.07408518387649839,11
+Instagram,18-24,Masculino,Rio de Janeiro,Culinária,0.03141383581141789,10
+Instagram,18-24,Feminino,Curitiba,Tecnologia,0.0743145985859519,17
+Instagram,18-24,Masculino,Campinas,Moda,0.05456679068453334,9
+Instagram,45-54,Masculino,Porto Alegre,Negócios,0.06508727125960422,45
+Instagram,55-64,Masculino,Rio de Janeiro,Fitness,0.07226293683584488,18
+Instagram,18-24,Feminino,Campinas,Entretenimento,0.057165874545521606,48
+Instagram,18-24,Feminino,Belém,Entretenimento,0.07611794368788503,36
+Instagram,65+,Outro,Manaus,Viagem,0.06504094710779021,24
+Instagram,25-34,Masculino,Goiânia,Música,0.046569563350880305,36
+Instagram,18-24,Masculino,Manaus,Moda,0.06516577818496981,41
+Instagram,55-64,Outro,Porto Alegre,Negócios,0.0787363178333833,25
+Instagram,55-64,Outro,Belém,Saúde,0.06311521302342764,14
+Instagram,18-24,Feminino,Rio de Janeiro,Beleza,0.05451472409716815,41
+Instagram,25-34,Masculino,Fortaleza,Educação,0.025684333885621306,42
+Instagram,55-64,Feminino,Salvador,Esportes,0.07336958801343267,8
+Instagram,65+,Outro,Brasília,Música,0.042691499533852664,28
+Instagram,55-64,Feminino,Porto Alegre,Negócios,0.02356131854400813,20
+Instagram,18-24,Feminino,Recife,Beleza,0.059308860227024404,37
+Instagram,45-54,Masculino,Brasília,Música,0.04414723322475539,6
+Instagram,35-44,Masculino,Recife,Moda,0.04571960611958463,18
+Instagram,55-64,Masculino,Belém,Negócios,0.03522476397940032,17
+Instagram,45-54,Outro,Campinas,Educação,0.05788606904832441,42
+Instagram,18-24,Masculino,Guarulhos,Entretenimento,0.04415670238935569,59
+Instagram,55-64,Feminino,Salvador,Esportes,0.07499226999764086,7
+Instagram,45-54,Feminino,Porto Alegre,Tecnologia,0.05054965832433178,50
+Instagram,25-34,Outro,Campinas,Negócios,0.0686100036643696,24
+Instagram,65+,Outro,Belém,Saúde,0.0648999195105711,29
+Instagram,25-34,Outro,Belo Horizonte,Saúde,0.03346000530463099,17
+Instagram,35-44,Outro,São Paulo,Tecnologia,0.037095433146552295,44
+Instagram,25-34,Outro,Manaus,Moda,0.038840622486325284,42
+Instagram,25-34,Outro,Curitiba,Beleza,0.06536904039233367,34
+Instagram,25-34,Masculino,Rio de Janeiro,Beleza,0.06097813347008557,28
+Instagram,45-54,Masculino,Guarulhos,Entretenimento,0.07731260974029104,21
+Instagram,55-64,Feminino,Belo Horizonte,Automóveis,0.06010337787487306,12
+Instagram,35-44,Masculino,São Paulo,Música,0.04343391698905187,11
+Instagram,65+,Feminino,Rio de Janeiro,Saúde,0.032487006444117485,52
+Instagram,55-64,Masculino,Rio de Janeiro,Fitness,0.05086193914466869,6
+Instagram,45-54,Outro,Rio de Janeiro,Entretenimento,0.07535395826871973,41
+Instagram,55-64,Outro,Rio de Janeiro,Casa e Decoração,0.038684036653098004,5
+Instagram,65+,Feminino,Brasília,Casa e Decoração,0.05019500175698278,11
+Instagram,55-64,Masculino,Porto Alegre,Saúde,0.04236886796622892,23
+Instagram,45-54,Masculino,Belo Horizonte,Negócios,0.06821040310827202,11
+Instagram,55-64,Masculino,Belo Horizonte,Tecnologia,0.05999646211773213,32
+Instagram,18-24,Masculino,Recife,Educação,0.024513013667854217,51
+Instagram,25-34,Outro,Recife,Música,0.0435369965779627,29
+Instagram,55-64,Feminino,Belo Horizonte,Automóveis,0.056535614027047834,53
+Instagram,65+,Outro,Rio de Janeiro,Casa e Decoração,0.036918008418877664,8
+Instagram,25-34,Outro,Goiânia,Moda,0.02019066311914686,57
+Instagram,35-44,Masculino,São Luís,Negócios,0.07988623145853618,24
+Instagram,18-24,Masculino,Belém,Esportes,0.07766350544388101,12
+Instagram,45-54,Outro,Rio de Janeiro,Educação,0.024364508591490242,8
+Instagram,55-64,Masculino,Goiânia,Música,0.026238621437463434,7
+Instagram,65+,Feminino,Salvador,Tecnologia,0.07780934071253352,60
+Instagram,25-34,Outro,São Paulo,Viagem,0.07303378941436235,56
+Instagram,25-34,Masculino,Campinas,Fitness,0.06319104100832751,10
+Instagram,35-44,Outro,Porto Alegre,Arte,0.0528386893668933,24
+Instagram,65+,Outro,Goiânia,Casa e Decoração,0.057334562706752606,9
+Instagram,35-44,Feminino,Fortaleza,Negócios,0.04827111937141433,44
+Instagram,35-44,Masculino,Salvador,Tecnologia,0.04327980592258299,48
+Instagram,18-24,Outro,Goiânia,Entretenimento,0.04752404411543716,59
+Instagram,25-34,Feminino,Brasília,Esportes,0.06692755314953258,19
+Instagram,18-24,Outro,Campinas,Tecnologia,0.05067372499064029,35
+Instagram,65+,Masculino,São Paulo,Beleza,0.061047276390700386,44
+Instagram,35-44,Feminino,Fortaleza,Entretenimento,0.06663941505715576,10
+Instagram,35-44,Outro,São Luís,Moda,0.06109878595517715,26
+Instagram,35-44,Feminino,Belo Horizonte,Esportes,0.03012070367510996,31
+Instagram,18-24,Outro,Guarulhos,Casa e Decoração,0.03405519586129429,46
+Instagram,25-34,Outro,Campinas,Automóveis,0.049298657809798085,42
+Instagram,65+,Masculino,Belém,Beleza,0.04057855594121082,22
+Instagram,45-54,Masculino,Rio de Janeiro,Arte,0.04389783064496437,17
+Instagram,25-34,Masculino,Belém,Arte,0.03980080663997418,30
+Instagram,55-64,Masculino,Curitiba,Casa e Decoração,0.020184670180415896,36
+Instagram,25-34,Masculino,Recife,Entretenimento,0.0717284143242179,48
+Instagram,25-34,Outro,Campinas,Automóveis,0.06368456986127093,10
+Instagram,35-44,Outro,Campinas,Negócios,0.07676596789770192,17
+Instagram,55-64,Outro,Salvador,Esportes,0.029861150809908796,17
+Instagram,55-64,Masculino,São Luís,Tecnologia,0.023001120408072735,42
+Instagram,25-34,Outro,Curitiba,Viagem,0.034335381658872136,16
+Instagram,25-34,Outro,Curitiba,Música,0.07083117513391224,14
+Instagram,65+,Masculino,Goiânia,Arte,0.043159781006592915,58
+Instagram,45-54,Outro,Guarulhos,Música,0.02721078232132379,28
+Instagram,35-44,Outro,Manaus,Moda,0.03457412231321698,59
+Instagram,65+,Masculino,Guarulhos,Automóveis,0.03609284336156819,29
+Instagram,18-24,Outro,Fortaleza,Educação,0.04549721442182171,13
+Instagram,18-24,Feminino,Curitiba,Entretenimento,0.07563115041247223,35
+Instagram,65+,Feminino,Porto Alegre,Educação,0.03696258182327021,5
+Instagram,35-44,Masculino,Recife,Tecnologia,0.045992053249474724,57
+Instagram,35-44,Outro,Goiânia,Automóveis,0.05213111477829756,45
+Instagram,45-54,Masculino,Belém,Esportes,0.025614723275553145,16
+Instagram,55-64,Masculino,São Luís,Tecnologia,0.04703850055066741,16
+Instagram,18-24,Feminino,São Luís,Esportes,0.044296011351406456,36
+Instagram,55-64,Feminino,Salvador,Casa e Decoração,0.0380536602539846,20
+Instagram,65+,Feminino,Guarulhos,Culinária,0.05723160622713597,30
+Instagram,45-54,Masculino,Belo Horizonte,Negócios,0.05131867316685103,9
+Instagram,45-54,Outro,Recife,Viagem,0.025669546167086187,28
+Instagram,55-64,Outro,Rio de Janeiro,Automóveis,0.07840078502073061,33
+Instagram,45-54,Outro,Belém,Casa e Decoração,0.055350793755796976,7
+Instagram,25-34,Outro,Brasília,Tecnologia,0.02935054100379534,22
+Instagram,35-44,Masculino,Belo Horizonte,Esportes,0.06772511573788408,40
+Instagram,55-64,Masculino,Brasília,Viagem,0.04160116445202727,19
+Instagram,25-34,Feminino,Fortaleza,Automóveis,0.022636926780361742,48
+Instagram,18-24,Masculino,Curitiba,Automóveis,0.05072774013277718,56
+Instagram,45-54,Feminino,Manaus,Moda,0.02554437746069469,23
+Instagram,18-24,Outro,Fortaleza,Esportes,0.029721547956090485,44
+Instagram,65+,Masculino,Salvador,Tecnologia,0.04721030819423215,45
+Instagram,25-34,Outro,Curitiba,Arte,0.054590116085529716,39
+Instagram,18-24,Feminino,São Paulo,Arte,0.051443075427516916,44
+Instagram,25-34,Masculino,Porto Alegre,Esportes,0.0235585070932883,5
+Instagram,18-24,Feminino,Belém,Educação,0.025057734353244977,57
+Instagram,35-44,Masculino,Guarulhos,Culinária,0.04370476745503904,12
+Instagram,25-34,Feminino,São Luís,Esportes,0.07797215924280643,20
+Instagram,35-44,Outro,São Luís,Saúde,0.07270239811651988,24
+Instagram,45-54,Outro,Goiânia,Arte,0.024756333739367285,19
+Instagram,35-44,Outro,Fortaleza,Beleza,0.02207130383673077,20
+Instagram,65+,Feminino,Porto Alegre,Esportes,0.035495929962302185,17
+Instagram,55-64,Masculino,Salvador,Negócios,0.03311241351667058,17
+Instagram,65+,Feminino,Curitiba,Culinária,0.035905372186814874,8
+Instagram,55-64,Masculino,Salvador,Negócios,0.033597490789136035,48
+Instagram,55-64,Masculino,Curitiba,Saúde,0.04188064475156918,36
+Instagram,18-24,Outro,Fortaleza,Educação,0.07219282987019748,19
+Instagram,65+,Outro,Porto Alegre,Educação,0.06971443421087206,29
+Instagram,25-34,Masculino,São Luís,Casa e Decoração,0.025204517821823928,6
+Instagram,65+,Feminino,Salvador,Casa e Decoração,0.04982159318172175,46
+Instagram,25-34,Masculino,Manaus,Saúde,0.07341499507045701,9
+Instagram,25-34,Masculino,Curitiba,Educação,0.02734277679221289,48
+Instagram,25-34,Masculino,Manaus,Entretenimento,0.03451094722287787,19
+Instagram,65+,Feminino,Fortaleza,Negócios,0.05961417917150902,12
+Instagram,25-34,Masculino,Curitiba,Viagem,0.035593366204973165,14
+Instagram,25-34,Feminino,Campinas,Esportes,0.05700859420665404,33
+Instagram,35-44,Masculino,Salvador,Moda,0.04243412560660037,46
+Instagram,65+,Feminino,Campinas,Fitness,0.07208991221394724,32
+Instagram,65+,Feminino,Belém,Fitness,0.06349291022972037,52
+Instagram,18-24,Feminino,Belo Horizonte,Saúde,0.0739331568186002,35
+Instagram,55-64,Outro,Curitiba,Negócios,0.05353520448453339,9
+Instagram,45-54,Feminino,Rio de Janeiro,Viagem,0.021517016341983632,28
+Instagram,18-24,Masculino,São Luís,Entretenimento,0.036095046225341834,16
+Instagram,35-44,Outro,Curitiba,Entretenimento,0.0491165317081004,56
+Instagram,18-24,Masculino,Recife,Viagem,0.04987169370805424,40
+Instagram,45-54,Outro,Manaus,Fitness,0.07877703815119622,14
+Instagram,45-54,Outro,Curitiba,Educação,0.03042355735879834,53
+Instagram,25-34,Outro,Belo Horizonte,Beleza,0.022857071877845414,5
+Instagram,18-24,Outro,Curitiba,Educação,0.05102791066723193,11
+Instagram,18-24,Outro,Manaus,Negócios,0.03842017801909227,35
+Instagram,65+,Feminino,Manaus,Entretenimento,0.05053459264485914,5
+Instagram,25-34,Feminino,Campinas,Educação,0.0206125766572203,53
+Instagram,45-54,Masculino,Salvador,Saúde,0.05693097727029342,28
+Instagram,35-44,Outro,São Luís,Moda,0.02605917144690544,49
+Instagram,25-34,Masculino,São Luís,Esportes,0.05153093792832675,5
+Instagram,55-64,Masculino,Guarulhos,Saúde,0.07683935294914615,6
+Instagram,55-64,Masculino,Fortaleza,Música,0.04426920167933185,28
+Instagram,18-24,Masculino,Fortaleza,Beleza,0.03443116033890809,15
+Instagram,35-44,Masculino,Belém,Entretenimento,0.07646856057058943,48
+Instagram,35-44,Masculino,Salvador,Moda,0.04493957145124042,40
+Instagram,18-24,Feminino,São Paulo,Culinária,0.034292182211146056,45
+Instagram,18-24,Outro,Curitiba,Música,0.04460977685202966,18
+Instagram,25-34,Masculino,Goiânia,Arte,0.07292490209214804,28
+Instagram,55-64,Feminino,Recife,Saúde,0.03270063505709762,9
+Instagram,65+,Masculino,Salvador,Esportes,0.04904734825429208,13
+Instagram,25-34,Feminino,Belo Horizonte,Beleza,0.0687515406937264,55
+Instagram,25-34,Outro,Campinas,Automóveis,0.049960386630172576,60
+Instagram,55-64,Outro,Fortaleza,Viagem,0.06477064570739802,25
+Instagram,18-24,Outro,Salvador,Moda,0.044849109791281774,51
+Instagram,45-54,Feminino,Rio de Janeiro,Esportes,0.04068834809194141,39
+Instagram,55-64,Outro,Guarulhos,Saúde,0.05807850158285635,25
+Instagram,18-24,Outro,Brasília,Entretenimento,0.07853224205062617,11
+Instagram,55-64,Masculino,Belo Horizonte,Casa e Decoração,0.02063679268041577,55
+Instagram,25-34,Feminino,Curitiba,Música,0.03096576486389225,47
+Instagram,55-64,Masculino,São Luís,Música,0.07381525208857034,26
+Instagram,35-44,Feminino,Goiânia,Fitness,0.05506896005994817,50
+Instagram,55-64,Masculino,Salvador,Negócios,0.0497760321295544,16
+Instagram,25-34,Feminino,Fortaleza,Música,0.06565004372280722,9
+Instagram,45-54,Feminino,Brasília,Saúde,0.0588933854478591,23
+Instagram,25-34,Masculino,Curitiba,Moda,0.02021901918368291,46
+Instagram,55-64,Outro,Recife,Automóveis,0.04259996989124962,60
+Facebook,18-24,Outro,Belo Horizonte,Automóveis,0.024495486598920608,30
+Facebook,35-44,Feminino,Belo Horizonte,Tecnologia,0.07453239934274804,30
+Facebook,65+,Masculino,Curitiba,Viagem,0.0482610737645434,47
+Facebook,65+,Masculino,Belém,Viagem,0.04643730711886251,21
+Facebook,45-54,Masculino,Salvador,Fitness,0.024049408900106834,53
+Facebook,35-44,Outro,Curitiba,Casa e Decoração,0.07910783974511433,53
+Facebook,45-54,Masculino,São Luís,Entretenimento,0.037172675440646966,60
+Facebook,35-44,Feminino,Recife,Beleza,0.05983332476074957,58
+Facebook,55-64,Feminino,São Luís,Entretenimento,0.020760250639179773,42
+Facebook,25-34,Masculino,Rio de Janeiro,Culinária,0.0689426256980523,18
+Facebook,65+,Outro,Belo Horizonte,Moda,0.044880166872260735,24
+Facebook,35-44,Outro,Porto Alegre,Viagem,0.03796334897146749,10
+Facebook,18-24,Masculino,Brasília,Arte,0.0692457975755269,59
+Facebook,25-34,Feminino,Recife,Automóveis,0.07563961293674892,48
+Facebook,18-24,Outro,Belém,Fitness,0.048300324957831396,43
+Facebook,45-54,Outro,Recife,Tecnologia,0.07312043773349815,12
+Facebook,18-24,Feminino,Fortaleza,Educação,0.04579837592208362,51
+Facebook,35-44,Outro,Brasília,Automóveis,0.07894763169000477,48
+Facebook,45-54,Feminino,Belo Horizonte,Beleza,0.05058287217895166,48
+Facebook,45-54,Feminino,Campinas,Tecnologia,0.06435710372312371,51
+Facebook,45-54,Feminino,Campinas,Saúde,0.03621332852998507,59
+Facebook,25-34,Outro,Fortaleza,Negócios,0.040173690526363694,10
+Facebook,65+,Outro,Curitiba,Casa e Decoração,0.055876411837743056,57
+Facebook,45-54,Masculino,São Luís,Música,0.063546721457563,54
+Facebook,45-54,Feminino,São Paulo,Fitness,0.07706140399882853,49
+Facebook,45-54,Feminino,Salvador,Arte,0.07661464811657777,27
+Facebook,18-24,Masculino,Guarulhos,Educação,0.04485363972593962,27
+Facebook,65+,Masculino,São Paulo,Beleza,0.07802161085903526,24
+Facebook,18-24,Feminino,Campinas,Casa e Decoração,0.028673668490245417,12
+Facebook,45-54,Masculino,Rio de Janeiro,Educação,0.0640386287570556,15
+Facebook,55-64,Outro,Guarulhos,Entretenimento,0.056469668380174726,23
+Facebook,45-54,Feminino,Salvador,Esportes,0.03522417519100764,5
+Facebook,65+,Feminino,Fortaleza,Entretenimento,0.021285301698281796,18
+Facebook,25-34,Outro,Belém,Esportes,0.036377464821820096,52
+Facebook,18-24,Masculino,Salvador,Educação,0.035452057776461404,20
+Facebook,25-34,Feminino,Salvador,Beleza,0.028449952295351806,14
+Facebook,65+,Feminino,Manaus,Beleza,0.07188581962347856,25
+Facebook,65+,Masculino,Guarulhos,Automóveis,0.027672646038136836,38
+Facebook,18-24,Masculino,Curitiba,Beleza,0.06117039720075104,20
+Facebook,35-44,Masculino,Curitiba,Música,0.031255523569413975,29
+Facebook,65+,Feminino,Belo Horizonte,Arte,0.06249464287009032,5
+Facebook,35-44,Feminino,Brasília,Música,0.020667091337326863,30
+Facebook,35-44,Outro,Belo Horizonte,Moda,0.060084485340349214,6
+Facebook,65+,Masculino,Brasília,Casa e Decoração,0.0468201107480577,39
+Facebook,55-64,Feminino,Belo Horizonte,Automóveis,0.03788396752360424,48
+Facebook,45-54,Outro,Manaus,Viagem,0.07016180243334633,55
+Facebook,55-64,Outro,Belo Horizonte,Beleza,0.03648763554122488,59
+Facebook,18-24,Masculino,Brasília,Música,0.06988024465294514,11
+Facebook,25-34,Feminino,Manaus,Educação,0.03750713341338638,46
+Facebook,18-24,Outro,Fortaleza,Moda,0.05832942215261623,37
+Facebook,45-54,Feminino,São Luís,Tecnologia,0.06210107238399633,17
+Facebook,18-24,Masculino,Guarulhos,Beleza,0.07444750177165325,20
+Facebook,55-64,Outro,Goiânia,Casa e Decoração,0.03919188691369463,52
+Facebook,35-44,Feminino,Guarulhos,Esportes,0.0614968476429715,14
+Facebook,45-54,Outro,Fortaleza,Casa e Decoração,0.06363029847296486,46
+Facebook,25-34,Outro,São Luís,Moda,0.055368283701632506,24
+Facebook,35-44,Masculino,Porto Alegre,Casa e Decoração,0.07574002277264397,49
+Facebook,35-44,Outro,Curitiba,Viagem,0.04331701482204416,53
+Facebook,45-54,Masculino,Goiânia,Moda,0.048012394013655396,34
+Facebook,25-34,Outro,Belo Horizonte,Fitness,0.061121551107136116,45
+Facebook,65+,Masculino,São Luís,Negócios,0.056588152030592864,41
+Facebook,25-34,Outro,Belo Horizonte,Casa e Decoração,0.037340160938966055,26
+Facebook,25-34,Feminino,São Paulo,Negócios,0.03861594462880983,58
+Facebook,35-44,Masculino,Campinas,Automóveis,0.06216132920859051,42
+Facebook,35-44,Feminino,São Paulo,Entretenimento,0.0764708020663094,25
+Facebook,35-44,Feminino,Belo Horizonte,Tecnologia,0.05343982178553347,44
+Facebook,35-44,Feminino,Guarulhos,Automóveis,0.06872156264275273,37
+Facebook,18-24,Masculino,Porto Alegre,Saúde,0.02604072699548388,6
+Facebook,65+,Feminino,Rio de Janeiro,Negócios,0.022339083222825632,38
+Facebook,25-34,Outro,Salvador,Saúde,0.0419016596015684,48
+Facebook,18-24,Feminino,Porto Alegre,Moda,0.07091396139931029,37
+Facebook,25-34,Outro,Salvador,Entretenimento,0.026066172123878975,47
+Facebook,45-54,Outro,São Paulo,Saúde,0.02486902379997199,43
+Facebook,65+,Outro,Rio de Janeiro,Arte,0.06856697110571866,33
+Facebook,18-24,Masculino,Recife,Moda,0.060728343187542916,46
+Facebook,45-54,Feminino,Belo Horizonte,Educação,0.030931976568424203,56
+Facebook,35-44,Outro,Curitiba,Casa e Decoração,0.05162070253201789,15
+Facebook,45-54,Masculino,Belo Horizonte,Fitness,0.05582737479991973,47
+Facebook,18-24,Outro,Curitiba,Música,0.03598240351022712,24
+Facebook,18-24,Feminino,Belém,Culinária,0.0541130985220417,8
+Facebook,55-64,Outro,Recife,Moda,0.07668185547371675,48
+Facebook,25-34,Feminino,Guarulhos,Música,0.04076334837108367,33
+Facebook,18-24,Outro,Belo Horizonte,Viagem,0.05346152994140932,18
+Facebook,35-44,Masculino,Curitiba,Casa e Decoração,0.06456737250802068,22
+Facebook,55-64,Outro,Salvador,Casa e Decoração,0.07710061344448031,12
+Facebook,55-64,Feminino,Curitiba,Moda,0.076401391889508,53
+Facebook,18-24,Outro,Belém,Automóveis,0.020328096978967,19
+Facebook,35-44,Masculino,Fortaleza,Tecnologia,0.07441873422656721,32
+Facebook,45-54,Feminino,Belém,Educação,0.07056350147457402,58
+Facebook,18-24,Masculino,Salvador,Culinária,0.04459545133076362,52
+Facebook,25-34,Feminino,Campinas,Negócios,0.05437620291083527,11
+Facebook,55-64,Masculino,Manaus,Negócios,0.06078091252438966,34
+Facebook,35-44,Outro,Guarulhos,Culinária,0.03714983939003941,11
+Facebook,18-24,Feminino,Belo Horizonte,Tecnologia,0.02435353570361102,16
+Facebook,65+,Outro,Rio de Janeiro,Arte,0.03175491107659589,21
+Facebook,45-54,Outro,Salvador,Culinária,0.052865171426345836,16
+Facebook,65+,Masculino,Brasília,Esportes,0.058502308329847694,5
+Facebook,35-44,Feminino,Campinas,Culinária,0.039758090470411456,37
+Facebook,25-34,Outro,Fortaleza,Música,0.03232261583187736,55
+Facebook,45-54,Outro,Rio de Janeiro,Negócios,0.025362444906597746,49
+Facebook,25-34,Outro,Porto Alegre,Saúde,0.025529298287011566,60
+Facebook,25-34,Outro,Rio de Janeiro,Esportes,0.06616531182439885,51
+Facebook,25-34,Feminino,Rio de Janeiro,Saúde,0.04147361847866496,33
+Facebook,35-44,Feminino,Belo Horizonte,Negócios,0.021757405776687524,42
+Facebook,35-44,Feminino,Goiânia,Saúde,0.03611358639444505,21
+Facebook,45-54,Outro,Brasília,Entretenimento,0.03030694854929985,54
+Facebook,45-54,Outro,Guarulhos,Saúde,0.06037381709115518,41
+Facebook,65+,Outro,Rio de Janeiro,Casa e Decoração,0.025279872059813354,48
+Facebook,35-44,Outro,Belém,Automóveis,0.07078567637226572,15
+Facebook,45-54,Masculino,Guarulhos,Negócios,0.038563288282306867,42
+Facebook,65+,Outro,São Luís,Moda,0.05487274600395556,36
+Facebook,18-24,Outro,Rio de Janeiro,Saúde,0.062066148455812056,27
+Facebook,45-54,Outro,São Luís,Música,0.030526674217601843,59
+Facebook,55-64,Masculino,Fortaleza,Arte,0.02499415947966777,51
+Facebook,35-44,Feminino,Goiânia,Beleza,0.04883660817358992,26
+Facebook,55-64,Outro,Campinas,Esportes,0.06493884707743318,25
+Facebook,45-54,Masculino,Porto Alegre,Negócios,0.07711323618666345,6
+Facebook,35-44,Feminino,Salvador,Moda,0.03925053278277936,36
+Facebook,65+,Masculino,Recife,Música,0.07583834761708416,36
+Facebook,18-24,Masculino,São Paulo,Viagem,0.023048711594605985,34
+Facebook,55-64,Masculino,Guarulhos,Negócios,0.04101113725628476,25
+Facebook,65+,Feminino,Manaus,Automóveis,0.03824815165830207,37
+Facebook,25-34,Feminino,Salvador,Casa e Decoração,0.06461749391837679,22
+Facebook,45-54,Feminino,Belém,Automóveis,0.021518965908185948,48
+Facebook,18-24,Masculino,Salvador,Beleza,0.020471541048121992,16
+Facebook,55-64,Feminino,São Paulo,Saúde,0.06343357343720593,58
+Facebook,65+,Outro,Goiânia,Culinária,0.060908394765398444,46
+Facebook,25-34,Masculino,São Luís,Automóveis,0.036113415350638445,42
+Facebook,45-54,Feminino,Belo Horizonte,Arte,0.04114988062662113,50
+Facebook,25-34,Masculino,Recife,Tecnologia,0.0312696844229144,55
+Facebook,18-24,Feminino,Belém,Culinária,0.0692281800328112,11
+Facebook,65+,Feminino,São Luís,Automóveis,0.06579784569364286,32
+Facebook,18-24,Masculino,Belém,Automóveis,0.040772164480910096,36
+Facebook,45-54,Feminino,Goiânia,Fitness,0.07865711584392607,46
+Facebook,65+,Feminino,São Luís,Tecnologia,0.02653899008954679,26
+Facebook,65+,Feminino,Goiânia,Beleza,0.04107569966629181,21
+Facebook,25-34,Feminino,Campinas,Educação,0.0691400992283819,10
+Facebook,45-54,Outro,Curitiba,Tecnologia,0.06917576112303259,37
+Facebook,35-44,Feminino,Recife,Entretenimento,0.06072380641640192,54
+Facebook,35-44,Masculino,Brasília,Tecnologia,0.03612202309251382,44
+Facebook,65+,Feminino,Recife,Educação,0.07182627014091324,11
+Facebook,18-24,Outro,Recife,Beleza,0.0666598592603907,58
+Facebook,18-24,Outro,Fortaleza,Esportes,0.051221102017104905,43
+Facebook,45-54,Feminino,Salvador,Automóveis,0.07752545740045295,32
+Facebook,25-34,Masculino,São Paulo,Esportes,0.06403504447666754,27
+Facebook,65+,Outro,Guarulhos,Entretenimento,0.06008192824000741,42
+Facebook,35-44,Feminino,Guarulhos,Negócios,0.04426749409958029,32
+Facebook,35-44,Outro,Recife,Moda,0.06922461009079163,39
+Facebook,65+,Feminino,Salvador,Negócios,0.06346441525456206,35
+Facebook,25-34,Feminino,Belo Horizonte,Viagem,0.02055381524600505,39
+Facebook,35-44,Outro,Campinas,Automóveis,0.070003945992256,17
+Facebook,18-24,Feminino,Porto Alegre,Música,0.02906014717450755,27
+Facebook,65+,Feminino,Curitiba,Música,0.051294074378325574,58
+Facebook,45-54,Masculino,Belo Horizonte,Beleza,0.05842664032837626,40
+Facebook,65+,Masculino,Belém,Saúde,0.028437935697542903,47
+Facebook,25-34,Masculino,Guarulhos,Viagem,0.04532998228787873,24
+Facebook,45-54,Masculino,Brasília,Moda,0.02334221827021398,50
+Facebook,18-24,Outro,São Luís,Negócios,0.06521357243620676,26
+Facebook,55-64,Masculino,Guarulhos,Negócios,0.05074867725439766,55
+Facebook,45-54,Feminino,Rio de Janeiro,Educação,0.04282474589375348,58
+Facebook,25-34,Outro,Rio de Janeiro,Beleza,0.02139381469739295,17
+Facebook,45-54,Feminino,Guarulhos,Educação,0.07537411504849327,49
+Facebook,45-54,Feminino,Belém,Música,0.0547890447395893,20
+Facebook,35-44,Outro,Recife,Arte,0.020659182750791434,9
+Facebook,18-24,Masculino,São Luís,Culinária,0.022399912003005697,33
+Facebook,18-24,Masculino,Salvador,Música,0.024066309679698982,15
+Facebook,35-44,Masculino,Fortaleza,Culinária,0.02738737704186162,47
+Facebook,65+,Feminino,Goiânia,Culinária,0.07853445920030479,33
+Facebook,65+,Feminino,Campinas,Música,0.02336845739190597,41
+Facebook,35-44,Masculino,São Luís,Beleza,0.06765097885779144,34
+Facebook,65+,Outro,São Paulo,Arte,0.0239301430013124,28
+Facebook,25-34,Outro,Curitiba,Moda,0.04017333942593272,31
+Facebook,35-44,Feminino,Porto Alegre,Culinária,0.0385395088459463,53
+Facebook,18-24,Masculino,Rio de Janeiro,Entretenimento,0.05659929697693218,12
+Facebook,35-44,Outro,Fortaleza,Esportes,0.03849792698428506,54
+Facebook,18-24,Outro,Salvador,Educação,0.024611091457987688,31
+Facebook,45-54,Outro,Curitiba,Tecnologia,0.07319086683192415,50
+Facebook,18-24,Outro,São Paulo,Esportes,0.07032041947373913,40
+Facebook,18-24,Feminino,Goiânia,Arte,0.06425729109167193,45
+Facebook,45-54,Masculino,Goiânia,Esportes,0.027908269435461704,12
+Facebook,65+,Masculino,Guarulhos,Música,0.040724556615300146,28
+Facebook,25-34,Feminino,Salvador,Tecnologia,0.054091258813729184,26
+Facebook,65+,Masculino,Goiânia,Casa e Decoração,0.05894594682783187,5
+Facebook,18-24,Feminino,Porto Alegre,Negócios,0.06387717123263902,31
+Facebook,35-44,Outro,Porto Alegre,Viagem,0.03898007670325827,31
+Facebook,55-64,Feminino,Manaus,Negócios,0.06978615582904955,6
+Facebook,18-24,Masculino,Rio de Janeiro,Saúde,0.05944985935040267,23
+Facebook,35-44,Masculino,São Paulo,Esportes,0.06094002320191104,40
+Facebook,55-64,Outro,Brasília,Viagem,0.04791388968258087,9
+Facebook,65+,Outro,Goiânia,Saúde,0.07863923189594205,54
+Facebook,45-54,Outro,Belém,Música,0.058111131061626645,10
+Facebook,35-44,Feminino,Brasília,Automóveis,0.05282729599587138,36
+Facebook,25-34,Masculino,Guarulhos,Música,0.024275494950937577,5
+Facebook,65+,Outro,Guarulhos,Moda,0.04907250633831042,26
+Facebook,45-54,Masculino,Guarulhos,Tecnologia,0.06715023611883995,30
+Facebook,55-64,Outro,São Paulo,Moda,0.03248462200325555,7
+Facebook,65+,Masculino,Manaus,Viagem,0.033648439863382125,26
+Facebook,65+,Masculino,Campinas,Casa e Decoração,0.06918488226902775,57
+Facebook,25-34,Masculino,Campinas,Tecnologia,0.030546715519749683,8
+Facebook,25-34,Masculino,São Luís,Automóveis,0.0506845587116244,35
+Facebook,25-34,Outro,Belo Horizonte,Viagem,0.04171308304965567,43
+Facebook,65+,Feminino,Salvador,Tecnologia,0.0553467585833875,10
+Facebook,45-54,Outro,Campinas,Arte,0.07918394303959742,43
+Facebook,25-34,Outro,Goiânia,Música,0.07643656410562523,60
+Facebook,45-54,Feminino,Curitiba,Negócios,0.03195074970298045,49
+Facebook,45-54,Feminino,Salvador,Entretenimento,0.03398593785376382,31
+Facebook,35-44,Feminino,Recife,Automóveis,0.03705555039557061,44
+Facebook,35-44,Feminino,Belém,Esportes,0.06217595633808917,9
+Facebook,18-24,Feminino,Goiânia,Educação,0.052222348577418726,14
+Facebook,18-24,Feminino,Goiânia,Música,0.054507794357219516,25
+Facebook,18-24,Feminino,Goiânia,Saúde,0.07712039232515487,13
+Facebook,25-34,Feminino,Rio de Janeiro,Culinária,0.029986917589074936,8
+Facebook,25-34,Outro,São Paulo,Arte,0.07856965908268146,30
+Facebook,35-44,Masculino,Fortaleza,Viagem,0.022057888187275707,34
+Facebook,55-64,Masculino,São Luís,Tecnologia,0.061060713441180664,31
+Facebook,55-64,Feminino,Salvador,Educação,0.03209681084900119,57
+Facebook,65+,Feminino,Brasília,Culinária,0.06494989533471893,12
+Facebook,45-54,Feminino,São Luís,Moda,0.06960540298239172,25
+Facebook,45-54,Feminino,Brasília,Arte,0.042269000406031196,35
+Facebook,45-54,Outro,São Luís,Fitness,0.040662308972001904,32
+Facebook,25-34,Outro,Belém,Saúde,0.03320823827882558,49
+Facebook,35-44,Outro,Belo Horizonte,Esportes,0.06411819011582995,24
+Facebook,45-54,Feminino,Manaus,Esportes,0.07144897230267294,26
+Facebook,65+,Feminino,Belém,Viagem,0.06537583082819001,57
+Facebook,25-34,Feminino,Goiânia,Casa e Decoração,0.061267722428404295,51
+Facebook,55-64,Feminino,São Luís,Entretenimento,0.047398016316972214,17
+Facebook,65+,Feminino,Porto Alegre,Esportes,0.06469499616375102,52
+Facebook,25-34,Masculino,Manaus,Casa e Decoração,0.06856484816572615,54
+Facebook,25-34,Masculino,Recife,Esportes,0.07695621460094018,12
+Facebook,45-54,Masculino,Curitiba,Saúde,0.055096279706685305,25
+Facebook,25-34,Masculino,Guarulhos,Casa e Decoração,0.06656682859926104,14
+Facebook,65+,Feminino,Porto Alegre,Tecnologia,0.048094697782798235,14
+Facebook,65+,Feminino,Belo Horizonte,Arte,0.024825615391315822,21
+Facebook,18-24,Outro,Goiânia,Moda,0.03477843250834689,12
+Facebook,45-54,Feminino,Salvador,Educação,0.03285260894226453,21
+Facebook,65+,Masculino,Campinas,Moda,0.036071573539112556,34
+Facebook,25-34,Masculino,São Paulo,Moda,0.05076561795330131,45
+Facebook,35-44,Masculino,Goiânia,Tecnologia,0.06274468100383465,7
+Facebook,55-64,Outro,Belém,Negócios,0.03238897384083266,56
+Facebook,55-64,Outro,Curitiba,Moda,0.04599754810395426,33
+Facebook,25-34,Feminino,São Luís,Fitness,0.05173900769554038,7
+Facebook,25-34,Masculino,Campinas,Tecnologia,0.03786837345000098,16
+Facebook,35-44,Feminino,Porto Alegre,Fitness,0.06574191817321226,13
+Facebook,45-54,Outro,Rio de Janeiro,Tecnologia,0.04040371239112307,43
+Facebook,45-54,Feminino,Recife,Educação,0.03124675678112462,30
+Facebook,45-54,Feminino,Rio de Janeiro,Automóveis,0.05156095089128468,42
+Facebook,65+,Outro,Belém,Casa e Decoração,0.05792290095913233,44
+Facebook,35-44,Masculino,Recife,Esportes,0.03914837694619139,9
+Facebook,18-24,Masculino,Porto Alegre,Entretenimento,0.03853890706750875,17
+Facebook,55-64,Outro,Recife,Viagem,0.07181802690897085,22
+Facebook,55-64,Masculino,Guarulhos,Fitness,0.021571093564436494,27
+Facebook,35-44,Feminino,Salvador,Arte,0.0568402217728691,30
+Facebook,65+,Masculino,Curitiba,Saúde,0.028531086309412042,15
+Facebook,25-34,Masculino,Porto Alegre,Casa e Decoração,0.038455516693456905,27
+Facebook,65+,Feminino,Salvador,Culinária,0.0326168502912233,23
+Facebook,55-64,Feminino,Fortaleza,Automóveis,0.07346222576207076,17
+Facebook,18-24,Masculino,Manaus,Viagem,0.044989563252501655,55
+Facebook,35-44,Masculino,São Paulo,Beleza,0.02312922289544268,40
+Facebook,35-44,Outro,Goiânia,Culinária,0.04472855474765543,21
+Facebook,18-24,Outro,São Luís,Educação,0.06485243663266588,47
+Facebook,65+,Masculino,São Luís,Automóveis,0.05941659062924162,36
+Facebook,45-54,Outro,Campinas,Fitness,0.05361824552098425,14
+Facebook,55-64,Outro,Recife,Casa e Decoração,0.04602549567787724,23
+Facebook,65+,Outro,Belo Horizonte,Viagem,0.021742269099339833,6
+Facebook,45-54,Feminino,São Luís,Saúde,0.05320178321025909,20
+Facebook,45-54,Outro,Porto Alegre,Automóveis,0.062425303818927066,54
+Facebook,35-44,Outro,Fortaleza,Entretenimento,0.044754885621824086,50
+Facebook,65+,Outro,Goiânia,Viagem,0.04159566415291184,28
+Facebook,25-34,Masculino,Guarulhos,Viagem,0.06789826786397458,34
+Facebook,18-24,Masculino,Brasília,Esportes,0.020233130967721828,32
+Facebook,18-24,Feminino,Belém,Casa e Decoração,0.06641833923700083,51
+Facebook,18-24,Masculino,Campinas,Automóveis,0.03330934900807633,56
+Facebook,18-24,Masculino,Guarulhos,Arte,0.0442765440462471,57
+Facebook,55-64,Outro,Brasília,Esportes,0.03789985224385057,52
+Facebook,18-24,Masculino,Curitiba,Beleza,0.060026530028197495,48
+Facebook,18-24,Masculino,Goiânia,Moda,0.058565645456529286,39
+Facebook,18-24,Outro,Manaus,Música,0.05903406532599287,21
+Facebook,35-44,Feminino,São Paulo,Viagem,0.0593371601152099,53
+Facebook,18-24,Feminino,Salvador,Casa e Decoração,0.057267526734734425,21
+Facebook,45-54,Outro,Belém,Saúde,0.06370380426081801,39
+Facebook,55-64,Outro,Campinas,Tecnologia,0.07961886911331416,20
+Facebook,35-44,Masculino,São Paulo,Entretenimento,0.07132027945436624,56
+Facebook,18-24,Outro,Belo Horizonte,Culinária,0.04475076776415476,44
+Facebook,35-44,Outro,Brasília,Viagem,0.06052864818933526,46
+Facebook,55-64,Feminino,Porto Alegre,Fitness,0.04327970030440158,28
+Facebook,18-24,Masculino,Salvador,Negócios,0.07439786920744657,11
+Facebook,25-34,Masculino,São Paulo,Negócios,0.0323262004283525,57
+Facebook,25-34,Outro,Porto Alegre,Moda,0.06129488714515775,20
+Facebook,35-44,Outro,Campinas,Esportes,0.0640307271761106,28
+Facebook,55-64,Outro,Belém,Educação,0.06370537041002215,19
+Facebook,65+,Outro,Goiânia,Casa e Decoração,0.021800663331174825,27
+Facebook,55-64,Outro,Recife,Tecnologia,0.05071755839871854,18
+Facebook,45-54,Masculino,Rio de Janeiro,Saúde,0.04769082815244982,48
+Facebook,25-34,Feminino,Belo Horizonte,Negócios,0.02992665111438942,34
+Facebook,45-54,Feminino,Curitiba,Beleza,0.06755546258446993,32
+Facebook,55-64,Feminino,Guarulhos,Casa e Decoração,0.06702817251018782,15
+Facebook,45-54,Masculino,Rio de Janeiro,Viagem,0.07069396516151091,10
+Facebook,45-54,Outro,Guarulhos,Viagem,0.06894770687437277,36
+Facebook,18-24,Masculino,Belém,Esportes,0.0774682634651861,58
+Facebook,18-24,Outro,Manaus,Automóveis,0.03553149388052133,24
+Facebook,35-44,Masculino,Salvador,Moda,0.03112182799647507,7
+Facebook,18-24,Outro,Guarulhos,Música,0.07428542329529023,43
+Facebook,65+,Outro,Manaus,Saúde,0.02467652860589073,20
+Facebook,18-24,Outro,Goiânia,Casa e Decoração,0.02240253997404353,21
+Facebook,65+,Feminino,Fortaleza,Beleza,0.0686344162973013,43
+Facebook,35-44,Masculino,Salvador,Moda,0.045956711677098236,24
+Facebook,35-44,Outro,Recife,Saúde,0.06399003686417103,15
+Facebook,25-34,Feminino,Belém,Música,0.07474511227442548,41
+Facebook,65+,Masculino,Belém,Beleza,0.06683637678213646,21
+Facebook,65+,Outro,Porto Alegre,Automóveis,0.051094145698025735,50
+Facebook,35-44,Feminino,Belo Horizonte,Casa e Decoração,0.055386135086632454,58
+Facebook,65+,Feminino,Campinas,Música,0.021203042049917707,39
+Facebook,65+,Outro,Salvador,Culinária,0.03907684314529752,36
+Facebook,25-34,Outro,Belém,Automóveis,0.07909779945135684,26
+Facebook,25-34,Outro,São Luís,Casa e Decoração,0.04565250240570286,20
+Facebook,55-64,Outro,Belém,Esportes,0.0424409920832118,13
+Facebook,25-34,Feminino,Campinas,Viagem,0.078853834028825,29
+Facebook,35-44,Masculino,Belém,Educação,0.050033875601417824,8
+Facebook,65+,Feminino,Salvador,Automóveis,0.03943285074500633,51
+Facebook,55-64,Outro,São Paulo,Automóveis,0.06231672992695868,37
+Facebook,65+,Outro,Belo Horizonte,Beleza,0.054631653317111575,45
+Facebook,65+,Masculino,Recife,Educação,0.02845197617689003,25
+Facebook,25-34,Outro,Rio de Janeiro,Arte,0.03833017912230272,38
+Facebook,18-24,Feminino,São Paulo,Educação,0.07472279920843004,51
+Facebook,65+,Masculino,Belo Horizonte,Esportes,0.07363627877997121,6
+Facebook,65+,Masculino,São Paulo,Entretenimento,0.033165257679672495,57
+Facebook,25-34,Outro,Brasília,Viagem,0.04848293890709301,45
+Facebook,65+,Masculino,Rio de Janeiro,Educação,0.045569529996108735,18
+Facebook,35-44,Feminino,São Luís,Viagem,0.062143457600494875,55
+Facebook,55-64,Masculino,São Paulo,Esportes,0.0755544779175196,12
+Facebook,35-44,Outro,Campinas,Culinária,0.05998624961070814,31
+Facebook,35-44,Masculino,Guarulhos,Automóveis,0.04265054853428944,23
+Facebook,25-34,Masculino,Campinas,Entretenimento,0.0561364684835554,51
+Facebook,25-34,Outro,Salvador,Fitness,0.06859031045371343,28
+Facebook,65+,Outro,Campinas,Casa e Decoração,0.06997174565684358,29
+Facebook,35-44,Outro,Goiânia,Educação,0.02784574024100095,29
+Facebook,25-34,Masculino,Campinas,Música,0.024025689523679977,19
+Facebook,45-54,Masculino,Brasília,Entretenimento,0.06363903669805433,15
+Facebook,25-34,Feminino,Belo Horizonte,Culinária,0.03228333457726823,40
+Facebook,45-54,Feminino,Guarulhos,Fitness,0.028024150006385737,49
+Facebook,35-44,Feminino,Brasília,Moda,0.02215991148164409,12
+Facebook,65+,Masculino,Curitiba,Culinária,0.05822478971919416,40
+Facebook,45-54,Outro,Guarulhos,Esportes,0.07959594477875943,9
+Facebook,35-44,Masculino,Brasília,Casa e Decoração,0.07735753710966024,18
+Facebook,25-34,Feminino,Belo Horizonte,Moda,0.07606555117695897,31
+Facebook,25-34,Outro,Porto Alegre,Tecnologia,0.059441103627182634,39
+Facebook,25-34,Masculino,Manaus,Casa e Decoração,0.07532937873279386,14
+Facebook,45-54,Masculino,São Paulo,Música,0.034036328703976965,7
+Facebook,18-24,Outro,Goiânia,Beleza,0.052184966123177065,38
+Facebook,55-64,Outro,Brasília,Música,0.06240998206267659,40
+Facebook,45-54,Masculino,Guarulhos,Fitness,0.07296110261933404,19
+Facebook,25-34,Outro,Curitiba,Culinária,0.05339172902598714,37
+Facebook,18-24,Masculino,Campinas,Música,0.04792675812780474,49
+Facebook,45-54,Masculino,Guarulhos,Entretenimento,0.032047206523485514,51
+Facebook,18-24,Feminino,Porto Alegre,Beleza,0.06506725332623241,23
+Facebook,65+,Outro,Guarulhos,Casa e Decoração,0.020390895861911586,41
+Facebook,18-24,Masculino,Recife,Beleza,0.03510033175386649,49
+Facebook,55-64,Outro,São Paulo,Saúde,0.029613104368548377,6
+Facebook,65+,Outro,Fortaleza,Entretenimento,0.02690102517744383,15
+Facebook,45-54,Feminino,Fortaleza,Música,0.05129039918376678,47
+Facebook,18-24,Feminino,Curitiba,Educação,0.07936031435231217,14
+Facebook,35-44,Outro,Rio de Janeiro,Viagem,0.025942252085420225,8
+Facebook,25-34,Masculino,Belém,Casa e Decoração,0.02359800023383516,34
+Facebook,45-54,Outro,Brasília,Entretenimento,0.035088261519617275,33
+Facebook,55-64,Outro,Fortaleza,Arte,0.04014584974192155,57
+Facebook,18-24,Feminino,Goiânia,Fitness,0.0343212563045004,57
+Facebook,55-64,Feminino,Porto Alegre,Saúde,0.02020926125113351,5
+Facebook,45-54,Outro,Goiânia,Casa e Decoração,0.0799031950098998,27
+Facebook,35-44,Feminino,Curitiba,Saúde,0.05770330024970381,16
+Facebook,25-34,Feminino,Guarulhos,Casa e Decoração,0.062056594798583276,34
+Facebook,45-54,Outro,Recife,Esportes,0.0403395214386933,16
+Facebook,55-64,Feminino,Brasília,Negócios,0.05367989530236705,54
+Facebook,18-24,Feminino,Rio de Janeiro,Fitness,0.0655316122196277,23
+Facebook,45-54,Outro,Brasília,Automóveis,0.044964797189477615,24
+Facebook,35-44,Masculino,Salvador,Culinária,0.022795599681128226,17
+Facebook,55-64,Masculino,Fortaleza,Música,0.050215263564901046,53
+Facebook,45-54,Outro,Porto Alegre,Música,0.04720292673911587,49
+Facebook,55-64,Feminino,Salvador,Música,0.05135544153322584,50
+Facebook,55-64,Masculino,Belo Horizonte,Negócios,0.05672379785665195,28
+Facebook,55-64,Masculino,Campinas,Música,0.06476278662292193,26
+Facebook,18-24,Masculino,Recife,Viagem,0.029953092185773453,20
+Facebook,18-24,Masculino,Recife,Tecnologia,0.06699021624640873,29
+Facebook,65+,Feminino,Brasília,Moda,0.06814004344337739,30
+Facebook,55-64,Outro,Manaus,Esportes,0.02442459553908667,6
+Facebook,55-64,Outro,Salvador,Entretenimento,0.043169545026909735,20
+Facebook,18-24,Masculino,São Luís,Culinária,0.04321703484347374,44
+Facebook,65+,Masculino,Curitiba,Arte,0.059352897007237254,6
+Facebook,45-54,Feminino,Brasília,Música,0.05942363544484974,5
+Facebook,45-54,Masculino,São Luís,Educação,0.043808296224046625,18
+Facebook,18-24,Outro,Belém,Viagem,0.07099785330063944,16
+Facebook,25-34,Feminino,Recife,Automóveis,0.07226036525772596,46
+Facebook,25-34,Outro,Belo Horizonte,Fitness,0.06952410158919635,22
+Facebook,55-64,Outro,Curitiba,Negócios,0.05004055195148468,29
+Facebook,65+,Masculino,Salvador,Educação,0.024885845121836503,59
+Facebook,35-44,Masculino,São Paulo,Beleza,0.026778916616869465,5
+Facebook,45-54,Outro,Curitiba,Arte,0.04400839080269868,52
+Facebook,45-54,Feminino,Campinas,Beleza,0.06527049998964196,51
+Facebook,25-34,Feminino,Rio de Janeiro,Tecnologia,0.07403509729130509,30
+Facebook,65+,Feminino,Belém,Casa e Decoração,0.022304659207436982,14
+Facebook,18-24,Masculino,Belo Horizonte,Arte,0.05155189970907621,60
+Facebook,55-64,Masculino,Goiânia,Culinária,0.03738073775964458,13
+Facebook,65+,Masculino,Rio de Janeiro,Esportes,0.03582616419734599,45
+Facebook,55-64,Feminino,Goiânia,Música,0.04549189643251052,46
+Facebook,45-54,Masculino,Guarulhos,Saúde,0.06523578302222108,11
+Facebook,55-64,Masculino,Goiânia,Beleza,0.05186190445077285,18
+Facebook,65+,Feminino,São Luís,Moda,0.042917472835188195,9
+Facebook,65+,Feminino,Salvador,Educação,0.06495079728219369,22
+Facebook,55-64,Feminino,São Paulo,Culinária,0.07591659199452662,46
+Facebook,35-44,Outro,Campinas,Educação,0.0740027066966584,35
+Facebook,65+,Masculino,Rio de Janeiro,Saúde,0.03319193213420035,47
+Facebook,25-34,Masculino,São Paulo,Beleza,0.07598642233512466,43
+Facebook,65+,Feminino,Campinas,Culinária,0.05829075092583673,34
+Facebook,18-24,Feminino,Campinas,Beleza,0.03776144714812529,43
+Facebook,45-54,Feminino,Brasília,Entretenimento,0.07523164925238926,6
+Facebook,25-34,Outro,Belo Horizonte,Arte,0.0753749778214818,7
+Facebook,55-64,Feminino,Curitiba,Entretenimento,0.07308454779222667,32
+Facebook,65+,Outro,São Luís,Casa e Decoração,0.07601079917787902,32
+Facebook,25-34,Feminino,Curitiba,Negócios,0.05393002290982471,21
+Facebook,35-44,Masculino,Belo Horizonte,Saúde,0.07595866867755181,8
+Facebook,45-54,Outro,Rio de Janeiro,Casa e Decoração,0.04760878850985745,5
+Facebook,35-44,Masculino,Salvador,Moda,0.026693983425356366,17
+Facebook,45-54,Masculino,Goiânia,Fitness,0.028519571170026764,29
+Facebook,45-54,Masculino,Manaus,Culinária,0.054306316762689474,43
+Facebook,45-54,Masculino,Brasília,Culinária,0.024380342372159813,10
+Facebook,55-64,Feminino,Belém,Negócios,0.07602678348923657,56
+Facebook,45-54,Feminino,São Luís,Culinária,0.07668430308399743,25
+Facebook,25-34,Outro,Porto Alegre,Saúde,0.054856381153521455,26
+Facebook,35-44,Outro,Rio de Janeiro,Saúde,0.030952015332586326,14
+Facebook,25-34,Outro,Salvador,Viagem,0.057384430865129774,17
+Facebook,25-34,Outro,Campinas,Negócios,0.07888929358657677,26
+Facebook,65+,Feminino,Belo Horizonte,Moda,0.05480463074293436,15
+Facebook,25-34,Masculino,Brasília,Beleza,0.06128747265212736,30
+Facebook,18-24,Outro,Curitiba,Entretenimento,0.05592676705037926,33
+Facebook,55-64,Feminino,Campinas,Beleza,0.05634642548816492,7
+Facebook,25-34,Masculino,Belém,Saúde,0.053030850796712645,11
+Facebook,65+,Feminino,Fortaleza,Automóveis,0.06978643683434103,45
+Facebook,65+,Outro,Salvador,Casa e Decoração,0.0219868879708545,28
+Facebook,25-34,Feminino,Salvador,Fitness,0.04339319859457144,21
+Facebook,65+,Outro,Campinas,Música,0.045065270364107776,9
+Facebook,18-24,Masculino,Fortaleza,Esportes,0.02033634520112592,21
+Facebook,35-44,Masculino,Fortaleza,Esportes,0.024026716033956404,47
+Facebook,55-64,Masculino,Belém,Moda,0.028912033079919547,42
+Facebook,35-44,Masculino,Rio de Janeiro,Educação,0.0647894385831822,26
+Facebook,25-34,Masculino,Goiânia,Negócios,0.07975141725542674,49
+Facebook,45-54,Masculino,Curitiba,Entretenimento,0.03019813027342162,30
+Facebook,25-34,Feminino,São Paulo,Casa e Decoração,0.024882365783352383,42
+Facebook,55-64,Masculino,Brasília,Educação,0.0672301279349206,48
+Facebook,35-44,Masculino,Rio de Janeiro,Arte,0.07614002914143485,46
+Facebook,35-44,Feminino,Goiânia,Música,0.073846089296289,28
+Facebook,35-44,Feminino,Goiânia,Esportes,0.03835025063449164,59
+Facebook,55-64,Outro,Belo Horizonte,Automóveis,0.03680491134055127,22
+Facebook,45-54,Feminino,Guarulhos,Arte,0.04751868169257936,8
+Facebook,65+,Feminino,Guarulhos,Viagem,0.0676951150439339,60
+Facebook,65+,Masculino,Belém,Educação,0.03626840871195679,32
+Facebook,25-34,Feminino,Belo Horizonte,Casa e Decoração,0.026071756004486024,54
+Facebook,45-54,Outro,Belém,Entretenimento,0.0379413977072116,55
+Facebook,35-44,Outro,Salvador,Negócios,0.06722083746315394,16
+Facebook,25-34,Outro,Curitiba,Tecnologia,0.06456715426933793,41
+Facebook,35-44,Feminino,São Luís,Moda,0.026519986238110548,14
+Facebook,45-54,Feminino,Guarulhos,Moda,0.03313161647728383,44
+Facebook,65+,Outro,Curitiba,Esportes,0.04683991697840514,59
+Facebook,35-44,Outro,Fortaleza,Entretenimento,0.06823003010377103,37
+Facebook,55-64,Masculino,São Luís,Educação,0.05043183005608487,11
+Facebook,25-34,Outro,Fortaleza,Tecnologia,0.051750781529174034,31
+Facebook,45-54,Masculino,Guarulhos,Esportes,0.036360910644052995,43
+Facebook,65+,Masculino,Salvador,Entretenimento,0.04317541686290165,39
+Facebook,18-24,Feminino,Goiânia,Esportes,0.054351657145311705,49
+Facebook,65+,Outro,Guarulhos,Automóveis,0.055733045949670615,28
+Facebook,18-24,Feminino,Goiânia,Saúde,0.035456991386194334,20
+Facebook,65+,Masculino,Salvador,Fitness,0.03070768601740669,21
+Facebook,35-44,Outro,São Paulo,Esportes,0.07969302758588231,18
+Facebook,65+,Feminino,Curitiba,Negócios,0.07961623868744247,49
+Facebook,35-44,Feminino,São Paulo,Educação,0.021082674195739885,6
+Facebook,25-34,Outro,Belo Horizonte,Automóveis,0.05362203625981335,20
+Facebook,25-34,Outro,Belém,Viagem,0.0429018719703354,22
+Facebook,55-64,Masculino,Porto Alegre,Música,0.03475625985371881,38
+Facebook,65+,Feminino,Rio de Janeiro,Educação,0.05843583847364854,39
+Facebook,65+,Outro,Rio de Janeiro,Esportes,0.05710858272279716,33
+Facebook,18-24,Outro,Campinas,Fitness,0.06922110282770486,12
+Facebook,35-44,Outro,Goiânia,Culinária,0.0627385205390373,25
+Facebook,65+,Feminino,São Paulo,Viagem,0.03530896019995727,13
+Facebook,18-24,Masculino,Curitiba,Fitness,0.05699474474993478,57
+Facebook,45-54,Masculino,Recife,Casa e Decoração,0.06468700961771598,46
+Facebook,25-34,Outro,Brasília,Entretenimento,0.022551208064546045,6
+Facebook,45-54,Feminino,Guarulhos,Tecnologia,0.025118848260140332,12
+Facebook,55-64,Outro,Curitiba,Tecnologia,0.028957035992600355,58
+Facebook,25-34,Outro,Belém,Moda,0.03357559677690673,8
+Facebook,65+,Outro,Campinas,Educação,0.03659118558996741,48
+Facebook,35-44,Masculino,São Luís,Educação,0.05836971427538834,13
+Facebook,65+,Outro,Campinas,Arte,0.07136174497059285,21
+Facebook,25-34,Masculino,Recife,Música,0.07962337533648992,28
+Facebook,18-24,Feminino,Campinas,Beleza,0.03026661722547637,43
+Facebook,25-34,Masculino,Porto Alegre,Negócios,0.02225684834582145,48
+Facebook,35-44,Masculino,São Paulo,Arte,0.04316659576873809,48
+Facebook,18-24,Outro,Manaus,Tecnologia,0.026123550387925427,45
+Facebook,35-44,Feminino,Salvador,Viagem,0.060721892454401655,51
+Facebook,55-64,Feminino,Belém,Moda,0.053247527667650785,59
+Facebook,55-64,Outro,Campinas,Música,0.04164498707893237,15
+Facebook,45-54,Feminino,Guarulhos,Educação,0.049564174897814665,29
+Facebook,35-44,Feminino,Belém,Viagem,0.07863850047759952,8
+Facebook,65+,Masculino,São Luís,Moda,0.0793948288724601,44
+Facebook,55-64,Feminino,Guarulhos,Casa e Decoração,0.05795857609874146,22
+Facebook,45-54,Masculino,Campinas,Música,0.05986220262358763,59
+Facebook,55-64,Feminino,Manaus,Beleza,0.07055897381611512,43
+Facebook,45-54,Feminino,Brasília,Entretenimento,0.058865095396396894,25
+Facebook,45-54,Outro,Manaus,Arte,0.047087248235702844,58
+Facebook,45-54,Masculino,Goiânia,Beleza,0.023063132750498344,37
+Facebook,18-24,Feminino,Belém,Esportes,0.06361244359907414,11
+Facebook,18-24,Outro,Campinas,Saúde,0.05564620329963049,26
+Facebook,45-54,Outro,Porto Alegre,Casa e Decoração,0.055744364894314696,14
+Facebook,55-64,Masculino,Recife,Beleza,0.04777736157604365,46
+Facebook,65+,Outro,Recife,Educação,0.027922768914250932,53
+Facebook,65+,Masculino,Goiânia,Casa e Decoração,0.04609050215677288,13
+Facebook,55-64,Feminino,Curitiba,Fitness,0.06634689916609189,39
+Facebook,18-24,Outro,Guarulhos,Culinária,0.04972673091635944,55
+Facebook,35-44,Feminino,São Luís,Esportes,0.050583377578883655,56
+Facebook,45-54,Feminino,Curitiba,Arte,0.06397773844958242,45
+Facebook,25-34,Outro,Curitiba,Tecnologia,0.07009366987756785,7
+Facebook,45-54,Outro,Recife,Educação,0.04649980044293347,58
+Facebook,18-24,Feminino,Goiânia,Beleza,0.06071840590812301,56
+Facebook,55-64,Feminino,Belém,Música,0.031216865026232467,49
+Facebook,65+,Outro,Manaus,Arte,0.07163657607009634,42
+Facebook,45-54,Feminino,São Luís,Viagem,0.04911494128205253,17
+Facebook,18-24,Outro,Salvador,Arte,0.030518810338514456,34
+Facebook,25-34,Outro,Fortaleza,Moda,0.020153785571622063,25
+Facebook,65+,Masculino,Recife,Negócios,0.07331665939443653,39
+Facebook,25-34,Feminino,Campinas,Moda,0.04098931095421947,24
+Facebook,35-44,Masculino,São Paulo,Arte,0.05677203852636478,5
+Facebook,45-54,Masculino,Belo Horizonte,Entretenimento,0.02167274610538766,35
+Facebook,55-64,Feminino,Rio de Janeiro,Automóveis,0.02602837463645391,53
+Facebook,55-64,Feminino,Campinas,Música,0.061918626876843755,38
+Facebook,45-54,Outro,Brasília,Música,0.06764882904265339,7
+Facebook,25-34,Feminino,Manaus,Saúde,0.020323058699593284,43
+Facebook,25-34,Outro,Belo Horizonte,Música,0.058300916889453325,44
+Facebook,45-54,Masculino,Recife,Moda,0.06320757855845824,40
+Facebook,35-44,Feminino,São Paulo,Educação,0.06827905979881904,35
+Facebook,55-64,Masculino,Salvador,Arte,0.05707338457882016,33
+Facebook,18-24,Feminino,Curitiba,Saúde,0.0631467814028323,23
+Facebook,35-44,Masculino,Curitiba,Tecnologia,0.02521968944580533,56
+Facebook,35-44,Outro,Recife,Viagem,0.06724357268355924,18
+Facebook,65+,Feminino,Salvador,Automóveis,0.02259022784095962,40
+Facebook,65+,Outro,São Paulo,Arte,0.05161695036955191,31
+Facebook,25-34,Outro,Guarulhos,Saúde,0.035974291510911395,36
+Facebook,25-34,Masculino,Belém,Casa e Decoração,0.0587382187021972,38
+Facebook,65+,Masculino,Porto Alegre,Moda,0.03433968088273588,29
+Facebook,65+,Outro,Guarulhos,Educação,0.05133722948998007,38
+Facebook,55-64,Outro,Belém,Automóveis,0.0527737772282873,53
+Facebook,18-24,Outro,Recife,Tecnologia,0.07049220276604092,7
+Facebook,55-64,Masculino,São Paulo,Esportes,0.0722072560143457,30
+Facebook,45-54,Feminino,Recife,Esportes,0.02984429548329748,9
+Facebook,18-24,Feminino,Brasília,Saúde,0.0699695947689943,49
+Facebook,18-24,Feminino,Salvador,Moda,0.05327634538595162,24
+Facebook,18-24,Feminino,Recife,Viagem,0.05682340151759896,39
+Facebook,55-64,Outro,Fortaleza,Negócios,0.060967128632267595,11
+Facebook,35-44,Masculino,Manaus,Entretenimento,0.03912422592132863,19
+Facebook,65+,Outro,São Paulo,Fitness,0.02097427479016932,44
+Facebook,35-44,Outro,Porto Alegre,Casa e Decoração,0.042446311588495496,7
+Facebook,45-54,Masculino,Curitiba,Esportes,0.07099707649207085,29
+Facebook,25-34,Feminino,São Paulo,Negócios,0.04502541500763016,27
+Facebook,55-64,Outro,Goiânia,Arte,0.03178030134716729,34
+Facebook,35-44,Masculino,Curitiba,Educação,0.05601988098681415,18
+Facebook,65+,Outro,Recife,Saúde,0.0708232195537767,17
+Facebook,18-24,Feminino,Salvador,Saúde,0.02389233985837153,42
+Facebook,35-44,Outro,Brasília,Educação,0.047664395201383825,5
+Facebook,45-54,Masculino,Fortaleza,Arte,0.06616425081176483,27
+Facebook,25-34,Feminino,São Paulo,Culinária,0.06991927356711963,13
+Facebook,18-24,Feminino,São Paulo,Educação,0.026728922901348734,27
+Facebook,45-54,Masculino,Belo Horizonte,Esportes,0.051797829697546316,27
+Facebook,65+,Outro,São Luís,Arte,0.07396173277261694,59
+Facebook,25-34,Outro,Belém,Casa e Decoração,0.07393496566590865,48
+Facebook,65+,Outro,Brasília,Casa e Decoração,0.05163671020455693,48
+Facebook,45-54,Feminino,Porto Alegre,Educação,0.026870884127022782,13
+Facebook,45-54,Outro,Porto Alegre,Entretenimento,0.07420352265918993,59
+Facebook,65+,Masculino,Rio de Janeiro,Música,0.06844008955809537,49
+Facebook,25-34,Outro,Manaus,Música,0.03653571320146978,8
+Facebook,25-34,Outro,Brasília,Música,0.02548377685350496,40
+Facebook,45-54,Feminino,São Paulo,Automóveis,0.03718105344837752,23
+Facebook,18-24,Masculino,Salvador,Fitness,0.03779586533782218,17
+Facebook,45-54,Feminino,Curitiba,Moda,0.07204023188653287,51
+Facebook,65+,Outro,Salvador,Automóveis,0.07031475805616402,45
+Facebook,35-44,Outro,Salvador,Arte,0.047700290828527746,58
+Facebook,18-24,Outro,Porto Alegre,Música,0.07262985611095148,49
+Facebook,35-44,Outro,São Luís,Moda,0.06062252255730634,33
+Facebook,65+,Feminino,Salvador,Arte,0.02294142577143124,35
+Facebook,45-54,Outro,Salvador,Beleza,0.06419505128338215,31
+Facebook,45-54,Feminino,Campinas,Arte,0.04136450451900818,19
+Facebook,35-44,Outro,Fortaleza,Música,0.030541914557452393,34
+Facebook,65+,Outro,Salvador,Saúde,0.02573132887454104,12
+Facebook,65+,Feminino,São Luís,Fitness,0.04099657764260808,15
+Facebook,25-34,Feminino,Brasília,Negócios,0.050244059019376675,43
+Facebook,55-64,Masculino,Belém,Automóveis,0.0349117782554087,58
+Facebook,25-34,Feminino,Goiânia,Beleza,0.0458649821465424,33
+Facebook,55-64,Masculino,Campinas,Casa e Decoração,0.0705993132438975,14
+Facebook,55-64,Outro,Salvador,Culinária,0.034571447665549565,12
+Facebook,35-44,Feminino,São Luís,Beleza,0.0723191438757049,21
+Facebook,25-34,Masculino,São Luís,Negócios,0.05105280591310159,25
+Facebook,18-24,Feminino,Curitiba,Esportes,0.04325608194448059,29
+Facebook,45-54,Feminino,Guarulhos,Arte,0.04072462063844415,5
+Facebook,65+,Feminino,Rio de Janeiro,Saúde,0.058066235964342836,8
+Facebook,45-54,Feminino,Campinas,Automóveis,0.03269237433542644,18
+Facebook,35-44,Outro,Fortaleza,Arte,0.05604386275553559,38
+Facebook,35-44,Outro,Guarulhos,Educação,0.02218366984907477,22
+Facebook,65+,Outro,Salvador,Viagem,0.03753215227813131,30
+Facebook,55-64,Masculino,São Paulo,Negócios,0.05694679098051869,55
+Facebook,18-24,Masculino,Fortaleza,Música,0.04206038769381678,38
+Facebook,35-44,Outro,Curitiba,Esportes,0.07727293886728019,43
+Facebook,25-34,Masculino,Belo Horizonte,Casa e Decoração,0.04408976272528123,51
+Facebook,55-64,Feminino,Belém,Esportes,0.06475016187508494,43
+Facebook,45-54,Masculino,Belo Horizonte,Tecnologia,0.031287640227260924,44
+Facebook,55-64,Masculino,Rio de Janeiro,Entretenimento,0.056799531938575135,32
+Facebook,18-24,Feminino,Belém,Culinária,0.05457091712947426,56
+Facebook,45-54,Outro,Goiânia,Esportes,0.023670058082483167,10
+Facebook,65+,Outro,São Paulo,Entretenimento,0.030029181627659135,41
+Facebook,45-54,Feminino,Belém,Moda,0.038334935707489755,45
+Facebook,35-44,Feminino,Brasília,Saúde,0.05230181291011274,58
+Facebook,35-44,Outro,Belo Horizonte,Casa e Decoração,0.048598095573435626,20
+Facebook,65+,Outro,Goiânia,Música,0.035097612122512827,10
+Facebook,55-64,Masculino,São Paulo,Culinária,0.028304993015366074,44
+Facebook,18-24,Feminino,Rio de Janeiro,Saúde,0.068428182579251,28
+Facebook,45-54,Feminino,Curitiba,Entretenimento,0.030811721293942062,54
+Facebook,25-34,Feminino,Guarulhos,Tecnologia,0.05114888322575186,26
+Facebook,18-24,Outro,São Paulo,Moda,0.06372293559845285,60
+Facebook,25-34,Feminino,Recife,Viagem,0.06753891161886487,29
+Facebook,25-34,Outro,São Paulo,Tecnologia,0.04020959282763455,27
+Facebook,55-64,Outro,São Paulo,Moda,0.07724975708022369,28
+Facebook,65+,Feminino,Goiânia,Arte,0.041788187817933045,43
+Facebook,35-44,Feminino,Curitiba,Tecnologia,0.03972904056037706,48
+Facebook,25-34,Feminino,Guarulhos,Negócios,0.07474286750142052,11
+Facebook,18-24,Masculino,Salvador,Arte,0.07539655638052893,51
+Facebook,35-44,Outro,Belém,Beleza,0.06449101903236792,35
+Facebook,18-24,Outro,Curitiba,Moda,0.05622313459311781,16
+Facebook,65+,Outro,Salvador,Culinária,0.0361519557414528,60
+Facebook,65+,Feminino,Fortaleza,Saúde,0.031415882028984946,28
+Facebook,55-64,Outro,Campinas,Culinária,0.06833989205645472,45
+Facebook,25-34,Feminino,Brasília,Culinária,0.03284678891523503,57
+Facebook,65+,Outro,São Paulo,Moda,0.07952314178094419,46
+Facebook,55-64,Masculino,Fortaleza,Tecnologia,0.06994199548731543,20
+Facebook,55-64,Masculino,São Paulo,Saúde,0.06797334013987014,18
+Facebook,55-64,Outro,São Luís,Casa e Decoração,0.020084713230567843,22
+Facebook,45-54,Outro,São Paulo,Esportes,0.02615495004056268,49
+Facebook,45-54,Feminino,Salvador,Esportes,0.02045349982505987,56
+Facebook,45-54,Masculino,Recife,Moda,0.07528971260003117,38
+Facebook,45-54,Feminino,Fortaleza,Negócios,0.06641385021821974,37
+Facebook,25-34,Masculino,Fortaleza,Educação,0.04018215937813041,10
+Facebook,35-44,Outro,Porto Alegre,Negócios,0.02318571254917267,33
+Facebook,65+,Masculino,São Luís,Arte,0.0715658400099796,55
+Facebook,55-64,Outro,Manaus,Moda,0.030075282966550855,29
+Facebook,55-64,Masculino,Belém,Educação,0.03077356037023528,10
+Facebook,55-64,Feminino,São Luís,Casa e Decoração,0.05657859214598972,14
+Facebook,18-24,Outro,São Luís,Educação,0.06011945462571419,41
+Facebook,55-64,Feminino,Fortaleza,Beleza,0.031835711937553385,41
+Facebook,25-34,Masculino,Belo Horizonte,Culinária,0.04958962119986986,5
+Facebook,35-44,Outro,Porto Alegre,Música,0.029545418063694897,13
+Facebook,25-34,Masculino,São Paulo,Viagem,0.0596000253348143,8
+Facebook,45-54,Outro,Curitiba,Moda,0.07975306038504401,60
+Facebook,35-44,Masculino,São Paulo,Negócios,0.04414249966236863,24
+Facebook,65+,Feminino,Guarulhos,Culinária,0.04338127457944603,57
+Facebook,45-54,Outro,Rio de Janeiro,Beleza,0.07497294252830922,47
+Facebook,45-54,Masculino,Manaus,Viagem,0.0677293028356231,19
+Facebook,55-64,Feminino,Salvador,Culinária,0.0776846233288151,22
+Facebook,45-54,Outro,Guarulhos,Música,0.05513620707856638,44
+Facebook,45-54,Masculino,Belo Horizonte,Educação,0.05099354782150391,7
+Facebook,18-24,Masculino,Manaus,Fitness,0.07739176379318083,41
+Facebook,65+,Masculino,Curitiba,Moda,0.0608371209768646,31
+Facebook,18-24,Outro,Campinas,Educação,0.07540053659413982,26
+Facebook,65+,Masculino,Manaus,Esportes,0.022819746049826214,38
+Facebook,45-54,Feminino,Curitiba,Música,0.03201086221852413,56
+Facebook,45-54,Feminino,Goiânia,Saúde,0.04173226499539378,43
+Facebook,45-54,Masculino,Salvador,Casa e Decoração,0.05272782741247364,48
+Facebook,35-44,Outro,Salvador,Moda,0.024583987620227003,18
+Facebook,18-24,Feminino,Fortaleza,Moda,0.07726809500410499,26
+Facebook,45-54,Masculino,Goiânia,Culinária,0.07369268999995382,36
+Facebook,25-34,Masculino,Belo Horizonte,Automóveis,0.042314250990984764,25
+Facebook,55-64,Masculino,Belo Horizonte,Educação,0.07921070282271381,54
+Facebook,65+,Masculino,São Luís,Negócios,0.039172094690177274,45
+Facebook,35-44,Masculino,Porto Alegre,Moda,0.022839833507250648,6
+Facebook,45-54,Outro,São Luís,Automóveis,0.03237264660659879,35
+Facebook,65+,Feminino,Campinas,Entretenimento,0.04840988838060897,46
+Facebook,35-44,Outro,Campinas,Fitness,0.05594045510854671,21
+Facebook,55-64,Feminino,São Luís,Automóveis,0.03941234450446053,28
+Facebook,45-54,Outro,Guarulhos,Arte,0.06520679311094113,30
+Facebook,45-54,Outro,São Paulo,Arte,0.049296035290001324,33
+Facebook,35-44,Feminino,Salvador,Entretenimento,0.029565337878836653,52
+Facebook,65+,Masculino,São Luís,Viagem,0.04051727430135915,60
+Facebook,35-44,Masculino,São Paulo,Entretenimento,0.023699233538245535,12
+Facebook,65+,Masculino,Fortaleza,Música,0.03928419101314337,7
+Facebook,65+,Outro,Belo Horizonte,Educação,0.028464005776818437,6
+Facebook,45-54,Outro,São Luís,Educação,0.07832352051934156,55
+Facebook,18-24,Outro,Goiânia,Arte,0.057267724042851006,36
+Facebook,25-34,Masculino,Brasília,Culinária,0.058110080667635414,56
+Facebook,55-64,Outro,Campinas,Arte,0.037235739151930555,46
+Facebook,55-64,Masculino,Guarulhos,Viagem,0.04057881813847351,14
+Facebook,25-34,Outro,São Paulo,Educação,0.03572782478773621,54
+Facebook,55-64,Outro,Belo Horizonte,Beleza,0.025526470203063856,25
+Facebook,65+,Feminino,Manaus,Educação,0.025179793999241883,27
+Facebook,65+,Masculino,Porto Alegre,Saúde,0.03458116743812831,10
+Facebook,65+,Outro,Manaus,Música,0.03931908460615692,39
+Facebook,55-64,Masculino,São Luís,Automóveis,0.07309020855353474,33
+Facebook,55-64,Masculino,Manaus,Viagem,0.06115043581758396,23
+Facebook,25-34,Masculino,Campinas,Entretenimento,0.04022459192349961,38
+Facebook,25-34,Outro,Belém,Fitness,0.023776292319114697,20
+Facebook,25-34,Feminino,Curitiba,Educação,0.047990009412672584,13
+Facebook,45-54,Feminino,São Luís,Automóveis,0.06500035292330288,19
+Facebook,35-44,Outro,Fortaleza,Culinária,0.07606319576180462,38
+Facebook,45-54,Outro,Porto Alegre,Entretenimento,0.04332135301157415,59
+Facebook,18-24,Feminino,Campinas,Automóveis,0.07972557054360156,40
+Facebook,45-54,Outro,Manaus,Casa e Decoração,0.029856313779509015,36
+Facebook,55-64,Outro,Goiânia,Música,0.02522399091445076,50
+Facebook,18-24,Feminino,Fortaleza,Educação,0.028441195423165547,56
+Facebook,45-54,Outro,Rio de Janeiro,Moda,0.06551458832549584,14
+Facebook,25-34,Masculino,Campinas,Saúde,0.0756967084921387,21
+Facebook,65+,Outro,Goiânia,Automóveis,0.07471849241648042,56
+Facebook,25-34,Outro,Campinas,Beleza,0.0439704050373347,27
+Facebook,35-44,Outro,Belo Horizonte,Culinária,0.041856941688410115,22
+Facebook,35-44,Feminino,Rio de Janeiro,Viagem,0.07790396050565943,57
+Facebook,55-64,Feminino,Goiânia,Fitness,0.046772628877716584,7
+Facebook,45-54,Feminino,Fortaleza,Beleza,0.05931028246959756,56
+Facebook,45-54,Masculino,Salvador,Culinária,0.04366120939395461,36
+Facebook,65+,Outro,São Luís,Moda,0.07040754046869582,53
+Facebook,35-44,Feminino,Campinas,Saúde,0.020854313119511733,22
+Facebook,35-44,Masculino,Fortaleza,Tecnologia,0.057580180589612395,28
+Facebook,25-34,Outro,Recife,Entretenimento,0.044172106920022686,37
+Facebook,65+,Feminino,Belém,Automóveis,0.04590879891224872,57
+Facebook,45-54,Masculino,Belém,Automóveis,0.026464760335288832,8
+Facebook,35-44,Masculino,Brasília,Entretenimento,0.020489708785933577,53
+Facebook,55-64,Masculino,São Luís,Viagem,0.05358835267358811,31
+Facebook,18-24,Outro,Guarulhos,Entretenimento,0.025397471681438084,5
+Facebook,65+,Masculino,Belo Horizonte,Educação,0.026759533933081205,33
+Facebook,55-64,Outro,Rio de Janeiro,Tecnologia,0.056850232395924696,48
+Facebook,55-64,Feminino,São Paulo,Casa e Decoração,0.02929770617738369,11
+Facebook,25-34,Masculino,Recife,Negócios,0.029838858079176904,19
+Facebook,25-34,Outro,Recife,Beleza,0.05990218837698119,7
+Facebook,35-44,Outro,Campinas,Beleza,0.020325020815658047,55
+Facebook,45-54,Feminino,Curitiba,Automóveis,0.020205091225158737,16
+Facebook,55-64,Outro,Campinas,Viagem,0.06251935523289914,42
+Facebook,55-64,Feminino,Belém,Viagem,0.0545499152782338,8
+Facebook,55-64,Masculino,Porto Alegre,Beleza,0.05256838068946108,55
+Facebook,18-24,Outro,Fortaleza,Moda,0.07854672476958603,27
+Facebook,45-54,Feminino,Manaus,Saúde,0.05348566803167576,53
+Facebook,65+,Outro,Porto Alegre,Tecnologia,0.0685480485005868,31
+Facebook,65+,Masculino,Brasília,Fitness,0.0620418141126904,37
+Facebook,65+,Feminino,Campinas,Música,0.06682461034178809,13
+Facebook,65+,Masculino,Salvador,Saúde,0.03232933847447836,42
+Facebook,18-24,Masculino,Belém,Automóveis,0.07107306314423269,9
+Facebook,25-34,Masculino,Belém,Educação,0.04375513944656512,8
+Facebook,65+,Outro,Curitiba,Saúde,0.03173813549493089,19
+Facebook,65+,Masculino,Belém,Beleza,0.0329644408611039,18
+Facebook,45-54,Masculino,Belo Horizonte,Educação,0.04513789580114621,17
+Facebook,25-34,Outro,São Luís,Fitness,0.052908353204237535,13
+Facebook,25-34,Outro,Campinas,Entretenimento,0.07236360580471167,24
+Facebook,55-64,Masculino,São Luís,Tecnologia,0.06060102074793665,46
+Facebook,55-64,Outro,Campinas,Culinária,0.020057847743285777,55
+Facebook,35-44,Outro,Belo Horizonte,Casa e Decoração,0.06265923070303218,14
+Facebook,45-54,Outro,Brasília,Negócios,0.065469333678835,25
+Facebook,18-24,Outro,Belo Horizonte,Casa e Decoração,0.036676924817798814,40
+Facebook,45-54,Feminino,São Luís,Beleza,0.05818783032947894,32
+Facebook,45-54,Feminino,Fortaleza,Viagem,0.06315003937584221,59
+Facebook,25-34,Outro,Campinas,Casa e Decoração,0.0779844800504387,56
+Facebook,35-44,Outro,São Paulo,Casa e Decoração,0.02487793511713786,6
+Facebook,18-24,Feminino,Porto Alegre,Arte,0.032844671361408576,37
+Facebook,25-34,Outro,Curitiba,Culinária,0.06674052457760504,28
+Facebook,65+,Outro,Manaus,Esportes,0.030333277466188933,31
+Facebook,45-54,Masculino,Belém,Esportes,0.07604788253574608,15
+Facebook,45-54,Masculino,São Luís,Beleza,0.07018403067875502,27
+Facebook,45-54,Masculino,Brasília,Fitness,0.03334388135769479,6
+Facebook,25-34,Feminino,Curitiba,Arte,0.04643915493378926,14
+Facebook,35-44,Outro,Campinas,Fitness,0.04309899892290192,52
+Facebook,45-54,Masculino,Fortaleza,Entretenimento,0.02554942313574986,57
+Facebook,35-44,Feminino,Belo Horizonte,Tecnologia,0.06765875512125478,11
+Facebook,18-24,Masculino,Campinas,Tecnologia,0.05753711521985537,15
+Facebook,35-44,Masculino,Porto Alegre,Moda,0.03823853577768696,39
+Facebook,25-34,Masculino,São Paulo,Moda,0.0624900469390989,8
+Facebook,45-54,Feminino,Rio de Janeiro,Automóveis,0.04854152113335045,21
+Facebook,55-64,Masculino,Campinas,Moda,0.06054751829858501,14
+Facebook,18-24,Masculino,Salvador,Educação,0.0532839633538323,16
+Facebook,45-54,Masculino,Guarulhos,Moda,0.0768628893143034,13
+Facebook,18-24,Masculino,Recife,Arte,0.07052186080999982,25
+Facebook,65+,Outro,Belém,Culinária,0.06737336208313702,15
+Facebook,45-54,Feminino,Curitiba,Saúde,0.0658137172998107,32
+Facebook,65+,Feminino,Guarulhos,Beleza,0.026520175898853006,12
+Facebook,25-34,Outro,Belém,Arte,0.07228251016974922,15
+Facebook,55-64,Feminino,Porto Alegre,Arte,0.04358307610570665,42
+Facebook,25-34,Outro,Brasília,Moda,0.03333748157989615,51
+Facebook,18-24,Outro,Fortaleza,Esportes,0.0634322292930057,35
+Facebook,55-64,Outro,Guarulhos,Automóveis,0.04854164865387175,21
+Facebook,25-34,Masculino,Curitiba,Tecnologia,0.03704952843487726,40
+Facebook,35-44,Feminino,Salvador,Saúde,0.025977164599564173,23
+Facebook,35-44,Masculino,Campinas,Música,0.03724885837590246,35
+Facebook,55-64,Masculino,Campinas,Casa e Decoração,0.04811316589985343,11
+Facebook,55-64,Masculino,Belo Horizonte,Beleza,0.04546281329544694,55
+Facebook,35-44,Feminino,Belo Horizonte,Educação,0.0217606122722248,10
+Facebook,18-24,Masculino,São Paulo,Esportes,0.05265708107654775,51
+Facebook,55-64,Feminino,Goiânia,Negócios,0.05193126896465705,15
+Facebook,35-44,Feminino,Porto Alegre,Moda,0.026628514108478857,13
+Facebook,25-34,Outro,Guarulhos,Moda,0.07318169495035458,44
+Facebook,55-64,Masculino,Rio de Janeiro,Viagem,0.07733572669033145,40
+Facebook,25-34,Feminino,Fortaleza,Culinária,0.056094298247049465,40
+Facebook,18-24,Feminino,Goiânia,Tecnologia,0.07420531735230515,29
+Facebook,25-34,Feminino,Guarulhos,Automóveis,0.07739597430802657,32
+Facebook,18-24,Outro,Fortaleza,Entretenimento,0.06600851454798774,36
+Facebook,45-54,Outro,São Luís,Culinária,0.06151875364796393,50
+Facebook,25-34,Outro,Manaus,Entretenimento,0.04231687120714632,55
+Facebook,65+,Feminino,Guarulhos,Saúde,0.07508581532071242,55
+Facebook,55-64,Feminino,Salvador,Moda,0.020635913113670266,13
+Facebook,55-64,Feminino,Brasília,Negócios,0.027680896102323806,45
+Facebook,25-34,Feminino,São Luís,Saúde,0.055996255013581686,41
+Facebook,18-24,Outro,Guarulhos,Casa e Decoração,0.05110474472544328,5
+Facebook,18-24,Feminino,Goiânia,Moda,0.028852035168452687,58
+Facebook,35-44,Masculino,Recife,Arte,0.0753694536265235,6
+Facebook,55-64,Masculino,Rio de Janeiro,Casa e Decoração,0.06505574384428763,33
+Facebook,55-64,Outro,Goiânia,Tecnologia,0.031296951568046606,24
+Facebook,18-24,Outro,Belo Horizonte,Música,0.046876469923401026,54
+Facebook,18-24,Feminino,Guarulhos,Negócios,0.0277969220398407,51
+Facebook,45-54,Outro,Fortaleza,Arte,0.06994208014147527,49
+Facebook,25-34,Feminino,Brasília,Viagem,0.033279620728424414,30
+Facebook,18-24,Feminino,Curitiba,Viagem,0.045577079420198535,16
+Facebook,55-64,Masculino,Curitiba,Educação,0.024817022369096206,40
+Facebook,35-44,Feminino,Brasília,Negócios,0.024543461098560808,18
+Facebook,45-54,Masculino,Belo Horizonte,Educação,0.06156113389322487,59
+Facebook,35-44,Masculino,Rio de Janeiro,Fitness,0.05800191473898275,35
+Facebook,45-54,Outro,São Luís,Viagem,0.056887887130170525,32
+Facebook,35-44,Masculino,São Paulo,Educação,0.021688982648883165,60
+Facebook,65+,Masculino,Goiânia,Culinária,0.053788081331297324,20
+Facebook,25-34,Masculino,Belo Horizonte,Automóveis,0.05417884036735471,34
+Facebook,55-64,Feminino,Curitiba,Fitness,0.07223031599149572,59
+Facebook,18-24,Masculino,São Luís,Automóveis,0.05593032884788811,9
+Facebook,45-54,Outro,Recife,Saúde,0.07153530077132113,10
+Facebook,18-24,Masculino,Goiânia,Automóveis,0.057155352144253546,51
+Facebook,25-34,Masculino,Rio de Janeiro,Educação,0.04574653070106862,58
+Facebook,35-44,Feminino,Curitiba,Viagem,0.05257752314169005,12
+Facebook,45-54,Feminino,São Luís,Tecnologia,0.05327525084076448,49
+Facebook,55-64,Masculino,Salvador,Tecnologia,0.023726423698420845,43
+Facebook,25-34,Feminino,Belo Horizonte,Beleza,0.06863780405115394,59
+Facebook,35-44,Outro,Campinas,Saúde,0.061169416243140484,33
+Facebook,35-44,Outro,Brasília,Educação,0.07825866688456219,25
+Facebook,65+,Masculino,São Luís,Casa e Decoração,0.05397534828446257,28
+Facebook,25-34,Masculino,Salvador,Automóveis,0.05773070044882417,48
+Facebook,45-54,Masculino,Campinas,Esportes,0.03808164154606661,54
+Facebook,65+,Masculino,Curitiba,Esportes,0.040964567355313425,50
+Facebook,25-34,Masculino,Curitiba,Saúde,0.06674078955297204,8
+Facebook,25-34,Masculino,Porto Alegre,Educação,0.07039496164492372,10
+Facebook,55-64,Masculino,Manaus,Arte,0.0775013965361413,47
+Facebook,55-64,Feminino,Belo Horizonte,Viagem,0.052203117499586116,9
+Facebook,25-34,Outro,São Luís,Negócios,0.04316959159562548,6
+Facebook,55-64,Outro,Rio de Janeiro,Viagem,0.03722212972181779,46
+Facebook,55-64,Feminino,Rio de Janeiro,Música,0.045864205037712436,58
+Facebook,45-54,Outro,Recife,Educação,0.05146851341912273,55
+Facebook,35-44,Outro,Fortaleza,Casa e Decoração,0.04385699188098442,32
+Facebook,55-64,Feminino,Brasília,Negócios,0.06897204336672644,59
+Facebook,35-44,Feminino,Belo Horizonte,Arte,0.05126727925606632,37
+Facebook,65+,Feminino,Fortaleza,Moda,0.035553616170481986,37
+Facebook,45-54,Outro,Salvador,Culinária,0.07751598377410081,20
+Facebook,55-64,Feminino,Campinas,Educação,0.07376697399846535,24
+Facebook,18-24,Masculino,Belém,Arte,0.046434162011152025,26
+Facebook,45-54,Outro,Guarulhos,Entretenimento,0.04364987629177018,30
+Facebook,65+,Feminino,Belém,Viagem,0.051381422000813554,32
+Facebook,55-64,Masculino,São Luís,Tecnologia,0.06835971553379064,43
+Facebook,18-24,Feminino,São Luís,Saúde,0.0488632439771393,29
+Facebook,55-64,Outro,Fortaleza,Beleza,0.07580186986026015,35
+Facebook,55-64,Outro,Fortaleza,Educação,0.04966952900783722,57
+Facebook,65+,Feminino,Salvador,Viagem,0.05043916518243227,16
+Facebook,45-54,Feminino,Fortaleza,Fitness,0.0460974552211393,60
+Facebook,35-44,Outro,São Luís,Tecnologia,0.020430885203312942,31
+Facebook,55-64,Masculino,São Luís,Beleza,0.07118723215480852,7
+Facebook,65+,Outro,Curitiba,Música,0.03721919577297084,54
+Facebook,45-54,Feminino,Belo Horizonte,Entretenimento,0.07404776541082093,21
+Facebook,25-34,Outro,Porto Alegre,Fitness,0.05646763630511881,34
+Facebook,55-64,Outro,Brasília,Casa e Decoração,0.04487423354142523,59
+Facebook,25-34,Masculino,Brasília,Esportes,0.06022095335783176,48
+Facebook,18-24,Outro,Recife,Fitness,0.0681512648549525,6
+Facebook,35-44,Masculino,Fortaleza,Arte,0.0584123406976116,38
+Facebook,55-64,Feminino,Campinas,Beleza,0.07799294320552298,39
+Facebook,35-44,Masculino,Belo Horizonte,Casa e Decoração,0.043455291932700715,21
+Facebook,18-24,Outro,Belém,Música,0.07796934367444906,39
+Facebook,25-34,Feminino,Goiânia,Arte,0.02980259988923139,16
+Facebook,25-34,Feminino,Guarulhos,Educação,0.07885611845098951,57
+Facebook,25-34,Masculino,Curitiba,Viagem,0.021679855195984178,40
+Facebook,25-34,Outro,Brasília,Automóveis,0.06429366837326954,37
+Facebook,25-34,Outro,Porto Alegre,Fitness,0.020224378542223708,47
+Facebook,25-34,Outro,Belém,Saúde,0.03676561728866942,52
+Facebook,35-44,Outro,Brasília,Entretenimento,0.0759684359178189,44
+Facebook,45-54,Masculino,Goiânia,Negócios,0.06512519088842027,31
+Facebook,45-54,Outro,Goiânia,Fitness,0.052987370855846525,12
+Facebook,45-54,Outro,Salvador,Beleza,0.07166969472111323,8
+Facebook,45-54,Outro,Campinas,Tecnologia,0.041761964732648205,50
+Facebook,25-34,Outro,Porto Alegre,Tecnologia,0.04884827302444335,42
+Facebook,35-44,Feminino,Goiânia,Tecnologia,0.049088980783080056,27
+Facebook,65+,Feminino,Belo Horizonte,Arte,0.07963911147615234,10
+Facebook,55-64,Outro,Guarulhos,Música,0.06132355137249294,23
+Facebook,18-24,Outro,Porto Alegre,Beleza,0.0669791269046134,16
+Facebook,65+,Outro,São Paulo,Música,0.034810819171611655,8
+Facebook,35-44,Masculino,Belém,Saúde,0.07615951852055314,23
+Facebook,35-44,Feminino,Salvador,Casa e Decoração,0.07280952920558673,48
+Facebook,35-44,Feminino,Manaus,Culinária,0.07315048517448577,51
+Facebook,35-44,Masculino,São Paulo,Educação,0.05579577361293776,25
+Facebook,55-64,Feminino,Salvador,Saúde,0.07526520436438834,7
+Facebook,45-54,Feminino,Rio de Janeiro,Arte,0.02022280180333586,21
+Facebook,65+,Outro,São Paulo,Beleza,0.06417538654736782,44
+Facebook,55-64,Outro,Recife,Negócios,0.02353288636200435,9
+Facebook,25-34,Feminino,Campinas,Esportes,0.04066112262531325,55
+Facebook,18-24,Masculino,Brasília,Música,0.0365291457822852,15
+Facebook,35-44,Feminino,São Paulo,Música,0.037793954492502266,32
+Facebook,45-54,Masculino,São Luís,Música,0.02805972415770749,43
+Facebook,18-24,Feminino,Belo Horizonte,Viagem,0.039222466277092735,38
+Facebook,55-64,Outro,Guarulhos,Arte,0.04463316702656381,33
+Facebook,18-24,Feminino,Belém,Arte,0.06159882529567551,12
+Facebook,18-24,Outro,Campinas,Culinária,0.03027039151238837,18
+Facebook,25-34,Masculino,Salvador,Viagem,0.04017563383330806,13
+Facebook,55-64,Feminino,Belém,Beleza,0.033297001876988,16
+Facebook,45-54,Masculino,Brasília,Viagem,0.051733453886739764,50
+Facebook,25-34,Outro,Porto Alegre,Beleza,0.02523273347287057,8
+Facebook,55-64,Masculino,Porto Alegre,Esportes,0.02633361349989646,9
+Facebook,18-24,Outro,Brasília,Tecnologia,0.0651507917664274,50
+Facebook,45-54,Feminino,Brasília,Culinária,0.04591677198935547,31
+Facebook,65+,Feminino,Manaus,Culinária,0.03901806875417117,51
+Facebook,18-24,Outro,Porto Alegre,Tecnologia,0.05056934353231011,10
+Facebook,35-44,Feminino,Guarulhos,Esportes,0.0452291982543946,10
+Facebook,25-34,Outro,Rio de Janeiro,Educação,0.0708619468811425,37
+Facebook,65+,Feminino,Recife,Entretenimento,0.024121468153857167,39
+Facebook,45-54,Feminino,Brasília,Educação,0.07624830201181419,46
+Facebook,45-54,Outro,São Luís,Casa e Decoração,0.02522735506230287,58
+Facebook,55-64,Outro,Rio de Janeiro,Automóveis,0.05316904075590334,54
+Facebook,45-54,Feminino,Guarulhos,Saúde,0.07086643023907424,44
+Facebook,18-24,Masculino,Rio de Janeiro,Educação,0.07101964196033726,28
+Facebook,45-54,Outro,Curitiba,Casa e Decoração,0.04040188830693916,20
+Facebook,35-44,Feminino,Curitiba,Educação,0.03642089278227563,35
+Facebook,65+,Outro,Belém,Entretenimento,0.07760580520514615,60
+Facebook,18-24,Feminino,Guarulhos,Arte,0.03880290406272838,27
+Facebook,35-44,Masculino,Recife,Fitness,0.07671852681881397,22
+Facebook,65+,Masculino,Goiânia,Negócios,0.07687969718430059,8
+Facebook,65+,Outro,Recife,Fitness,0.05424590223384372,21
+Facebook,25-34,Masculino,São Paulo,Casa e Decoração,0.05131988238879527,58
+Facebook,35-44,Feminino,Belo Horizonte,Saúde,0.04236378109216661,42
+Facebook,45-54,Feminino,São Paulo,Esportes,0.07750783294508475,53
+Facebook,18-24,Masculino,Belém,Esportes,0.04750235737287129,44
+Facebook,25-34,Feminino,São Paulo,Arte,0.07743605089891642,15
+Facebook,25-34,Masculino,Curitiba,Educação,0.032531861695848506,7
+Facebook,45-54,Outro,Belo Horizonte,Tecnologia,0.07306895178292541,50
+Facebook,25-34,Feminino,Recife,Beleza,0.033046973762019656,6
+Facebook,18-24,Outro,Curitiba,Música,0.040220640994340605,20
+Facebook,45-54,Feminino,Porto Alegre,Moda,0.041019337115360585,37
+Facebook,25-34,Feminino,Salvador,Arte,0.03632260458473595,46
+Facebook,45-54,Feminino,Salvador,Viagem,0.06371231298443263,12
+Facebook,35-44,Outro,Campinas,Beleza,0.07745505535323263,6
+Facebook,18-24,Masculino,Recife,Educação,0.028408713391859894,24
+Facebook,25-34,Masculino,São Paulo,Arte,0.05550451931038228,37
+Facebook,18-24,Feminino,Belém,Beleza,0.06833604367273252,52
+Facebook,55-64,Outro,Brasília,Tecnologia,0.04461870078208524,39
+Facebook,65+,Outro,Brasília,Tecnologia,0.02396756529794683,6
+Facebook,35-44,Outro,Belém,Arte,0.0665976691534628,54
+Facebook,18-24,Outro,Guarulhos,Casa e Decoração,0.048170412992461886,34
+Facebook,45-54,Feminino,Campinas,Entretenimento,0.025485334850367615,27
+Facebook,55-64,Outro,Brasília,Beleza,0.02404084041394071,27
+Facebook,18-24,Masculino,Rio de Janeiro,Negócios,0.03897087154986796,52
+Facebook,65+,Feminino,Guarulhos,Negócios,0.05221968348169437,38
+Facebook,25-34,Masculino,Campinas,Beleza,0.03794416040712108,15
+Facebook,25-34,Masculino,São Paulo,Moda,0.04206489109262611,56
+Facebook,18-24,Feminino,Manaus,Arte,0.02470017766421105,27
+Facebook,65+,Feminino,Brasília,Arte,0.029205182701736485,33
+Facebook,35-44,Outro,Guarulhos,Viagem,0.0716022963456501,7
+Facebook,55-64,Outro,Curitiba,Fitness,0.06718277180887434,25
+Facebook,35-44,Feminino,Manaus,Negócios,0.054696160365773544,43
+Facebook,18-24,Feminino,Manaus,Entretenimento,0.07651817625528011,47
+Facebook,35-44,Outro,Belém,Tecnologia,0.048184732123109086,18
+Facebook,25-34,Masculino,Curitiba,Entretenimento,0.022213442033157168,20
+Facebook,25-34,Masculino,Fortaleza,Entretenimento,0.034400598032765045,24
+Facebook,18-24,Outro,Belém,Fitness,0.03136511926615353,23
+Facebook,65+,Outro,Manaus,Esportes,0.07440588086590445,5
+Facebook,35-44,Feminino,Fortaleza,Culinária,0.056342112194965974,50
+Facebook,45-54,Masculino,São Paulo,Tecnologia,0.050650005586410626,17
+Facebook,45-54,Feminino,Belo Horizonte,Fitness,0.0769210066719318,24
+Facebook,45-54,Feminino,Curitiba,Viagem,0.07919063217417474,56
+Facebook,25-34,Masculino,Goiânia,Culinária,0.0303950637357976,33
+Facebook,18-24,Masculino,Goiânia,Casa e Decoração,0.04488928623170026,43
+Facebook,55-64,Masculino,São Luís,Música,0.07816205301453559,14
+Facebook,35-44,Outro,Brasília,Educação,0.06038645674710476,48
+Facebook,55-64,Masculino,Rio de Janeiro,Saúde,0.07933996307953216,20
+Facebook,18-24,Masculino,Curitiba,Fitness,0.06126964932812998,57
+Facebook,65+,Outro,Manaus,Beleza,0.05176956255956558,31
+Facebook,55-64,Outro,Porto Alegre,Tecnologia,0.04215749266570305,30
+Facebook,45-54,Feminino,Rio de Janeiro,Esportes,0.06302563550621496,60
+Facebook,55-64,Outro,Curitiba,Saúde,0.030643739601043878,27
+Facebook,25-34,Masculino,Rio de Janeiro,Arte,0.0707078588217213,49
+Facebook,65+,Outro,Fortaleza,Fitness,0.030662129759117935,10
+Facebook,45-54,Outro,Fortaleza,Fitness,0.03287296355473001,41
+Facebook,18-24,Masculino,Manaus,Negócios,0.04627575312399128,57
+Facebook,25-34,Masculino,Porto Alegre,Arte,0.05467963950765364,36
+Facebook,65+,Masculino,Rio de Janeiro,Esportes,0.04342501115097011,5
+Facebook,18-24,Masculino,São Luís,Casa e Decoração,0.03999495850495446,18
+Facebook,35-44,Masculino,Fortaleza,Saúde,0.031287208881451825,20
+Facebook,45-54,Masculino,Campinas,Beleza,0.042885673491377174,26
+Facebook,45-54,Outro,Manaus,Automóveis,0.025662960504120737,13
+Facebook,35-44,Masculino,Manaus,Saúde,0.0657957166718701,42
+Facebook,55-64,Masculino,Rio de Janeiro,Arte,0.04706871287241655,28
+Facebook,65+,Outro,Fortaleza,Entretenimento,0.03813513720517142,34
+Facebook,18-24,Outro,Manaus,Arte,0.03784397524294498,6
+Facebook,25-34,Outro,Belo Horizonte,Esportes,0.04097678493058028,48
+Facebook,25-34,Feminino,Guarulhos,Educação,0.07263334145832433,26
+Facebook,65+,Masculino,Belo Horizonte,Casa e Decoração,0.03511802287914527,7
+Facebook,55-64,Feminino,Salvador,Fitness,0.03972242943359093,58
